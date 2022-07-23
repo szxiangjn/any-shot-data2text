@@ -1,0 +1,872 @@
+<H> Aarhus <R> leader Name <T> Jacob Bundsgaard
+<H> Aarhus Airport <R> runway Length <T> 2702.0
+<H> Adirondack Regional Airport <R> elevation Above The Sea Level in metres <T> 507
+<H> Adirondack Regional Airport <R> location <T> Harrietstown New York
+<H> Adolfo Suarez Madrid-Barajas Airport <R> location <T> San Sebastian de los Reyes
+<H> Adolfo Suarez Madrid-Barajas Airport <R> runway Name <T> 14L/32R
+<H> Adolfo Suarez Madrid-Barajas Airport <R> runway Name <T> 14R/32L
+<H> Afonso Pena International Airport <R> operating Organisation <T> Infraero
+<H> Agra Airport <R> location <T> Agra
+<H> Al-Taqaddum Air Base <R> elevation Above The Sea Level in metres <T> 84.0
+<H> Alderney Airport <R> city Served <T> Alderney
+<H> Allama Iqbal International Airport <R> runway Name <T> 18R/36L
+<H> Alpena County Regional Airport <R> runway Length <T> 1533.0
+<H> Alpena County Regional Airport <R> runway Name <T> 1/19
+<H> Amsterdam Airport Schiphol <R> city Served <T> Amsterdam
+<H> Andrews County Texas <R> county Seat <T> Andrews Texas
+<H> Andrews County Airport <R> city Served <T> Andrews Texas
+<H> Andrews County Airport <R> runway Name <T> 11/29
+<H> Andrews County Airport <R> runway Name <T> Helipad
+<H> Angola International Airport <R> city Served <T> Luanda
+<H> Ardmore Airport New Zealand <R> location <T> Auckland
+<H> Athens <R> mayor <T> Giorgos Kaminis
+<H> Athens International Airport <R> location <T> Spata
+<H> Belgium <R> language <T> German language
+<H> Belgium <R> leader Name <T> Philippe of Belgium
+<H> Denmark <R> capital <T> Copenhagen
+<H> Denmark <R> leader Name <T> Lars Lokke Rasmussen
+<H> Flemish Region <R> leader Name <T> Flemish Government
+<H> Greece <R> language <T> Greek language
+<H> Greece <R> leader Name <T> Nikos Voutsis
+<H> Harrietstown New York <R> is Part Of <T> United States
+<H> Pakistan <R> leader Name <T> Anwar Zaheer Jamali
+<H> Paracuellos de Jarama <R> is Part Of <T> Community of Madrid
+<H> Port Authority of New York and New Jersey <R> headquarter <T> Four World Trade Center
+<H> San Sebastian de los Reyes <R> country <T> Spain
+<H> Saranac Lake New York <R> is Part Of <T> United States
+<H> South Jersey Transportation Authority <R> chief <T> Stephen Dilts
+<H> Alan Shepard <R> awards <T> Distinguished Service Medal United States Navy
+<H> Alan Shepard <R> death Place <T> California
+<H> Apollo 11 <R> backup pilot <T> William Anders
+<H> Apollo 14 <R> operator <T> NASA
+<H> Apollo 8 <R> operator <T> NASA
+<H> Buzz Aldrin <R> nationality <T> United States
+<H> Elliot See <R> occupation <T> Test pilot
+<H> University of Texas at Austin <R> affiliations <T> University of Texas System
+<H> University of Texas at Austin <R> mascot <T> Hook 'em mascot
+<H> 103 Colmore Row <R> architect <T> John Madin
+<H> 103 Colmore Row <R> location <T> Colmore Row
+<H> 11 Diagonal Street <R> completion Date <T> 1983
+<H> 200 Public Square <R> completion Date <T> 1985
+<H> 20 Fenchurch Street <R> building Start Date <T> January 2009
+<H> 20 Fenchurch Street <R> location <T> United Kingdom
+<H> 300 North LaSalle <R> floor Count <T> 60
+<H> 3Arena <R> architect <T> HOK SVE
+<H> 3Arena <R> location <T> East Link Bridge
+<H> Adare Manor <R> building Start Date <T> 1700
+<H> Adare Manor <R> country <T> Republic of Ireland
+<H> Akita Museum of Art <R> inauguration Date <T> 2013-09-28
+<H> Alan B. Miller Hall <R> current Tenants <T> Mason School of Business
+<H> Amdavad ni Gufa <R> architect <T> B. V. Doshi
+<H> Ampara Hospital <R> country <T> Sri Lanka
+<H> Asher and Mary Isabelle Richardson House <R> added to the National Register of Historic Places <T> 1988-11-22
+<H> Asser Levy Public Baths <R> year Of Construction <T> 1904
+<H> Birmingham <R> postal Code <T> B postcode area
+<H> Chicago <R> is Part Of <T> DuPage County Illinois
+<H> Dublin <R> country <T> Republic of Ireland
+<H> Dublin <R> is Part Of <T> Leinster
+<H> India <R> leader Name <T> Sumitra Mahajan
+<H> Japan <R> ethnic Group <T> Brazilians in Japan
+<H> Japan <R> leader Name <T> Taro Aso
+<H> Marriott International <R> key Person <T> Bill Marriott
+<H> Republic of Ireland <R> language <T> English language
+<H> South Africa <R> capital <T> Cape Town
+<H> United Kingdom <R> capital <T> London
+<H> United States <R> ethnic Group <T> Native Americans in the United States
+<H> United States <R> leader Name <T> Paul Ryan
+<H> Abilene Texas <R> area Code <T> 325
+<H> Abilene Texas <R> is Part Of <T> Texas
+<H> Albany Georgia <R> leader Title <T> Mayor
+<H> Albany Oregon <R> area Total <T> 45.97 square kilometres
+<H> Albany Oregon <R> country <T> United States
+<H> Albuquerque New Mexico <R> leader Title <T> State Senate
+<H> Albuquerque New Mexico <R> leader Title <T> Albuquerque City Council
+<H> Amarillo Texas <R> country <T> United States
+<H> Amarillo Texas <R> is Part Of <T> Potter County Texas
+<H> Amarillo Texas <R> is Part Of <T> United States
+<H> Anaheim California <R> area Code <T> 657
+<H> Anderson Indiana <R> is Part Of <T> Adams Fall Creek Lafayette Richland Union
+<H> Angola Indiana <R> is Part Of <T> Pleasant Township Steuben County Indiana
+<H> Ann Arbor Michigan <R> leader Title <T> City Administrator
+<H> Ann Arbor Michigan <R> leader Title <T> Mayor
+<H> Ann Arbor Michigan <R> population Density <T> 1580.7 inhabitants per square kilometre
+<H> Antioch California <R> elevation Above The Sea Level <T> 13.0
+<H> Antioch California <R> leader Title <T> California's 11th State Assembly district
+<H> Arlington Texas <R> elevation Above The Sea Level <T> 184.0
+<H> Atlantic County New Jersey <R> country <T> United States
+<H> Attica Indiana <R> is Part Of <T> Fountain County Indiana
+<H> Auburn Alabama <R> is Part Of <T> Alabama
+<H> California <R> country <T> United States
+<H> Fulton County Georgia <R> largest City <T> Atlanta
+<H> Georgia U.S. state <R> country <T> United States
+<H> Indiana <R> capital <T> Indianapolis
+<H> Lee County Alabama <R> state <T> Alabama
+<H> New Jersey <R> capital <T> Trenton New Jersey
+<H> Potter County Texas <R> state <T> Texas
+<H> Tarrant County Texas <R> country <T> United States
+<H> Washtenaw County Michigan <R> largest City <T> Ann Arbor Michigan
+<H> Asterix comicsCharacter <R> creator <T> Rene Goscinny
+<H> Auron comicsCharacter <R> creator <T> Marv Wolfman
+<H> Balder comicsCharacter <R> creator <T> Jack Kirby
+<H> Bananaman <R> broadcasted By <T> STV
+<H> Bananaman <R> first Aired <T> 1983-10-03
+<H> Bananaman <R> starring <T> Bill Oddie
+<H> Baymax <R> series <T> Big Hero 6 film
+<H> Bill Everett <R> award <T> Eisner Award
+<H> Bill Oddie <R> child <T> Kate Hardie
+<H> Bolt comicsCharacter <R> creator <T> Dan Mishkin
+<H> Bozo the Iron Man <R> full Name <T> Hugh Hazzard
+<H> John Buscema <R> award <T> Eagle Award comics
+<H> Marv Wolfman <R> award <T> Eagle Award comics
+<H> Ajoblanco <R> alternative Name <T> Ajo blanco
+<H> Ajoblanco <R> main Ingredients <T> Bread almonds garlic water olive oil
+<H> Arem-arem <R> region <T> Nationwide in Indonesia but more specific to Java
+<H> Arem-arem <R> region <T> Indonesia
+<H> Arrabbiata sauce <R> main Ingredients <T> Tomatoes red chili garlic olive oil
+<H> Arros negre <R> ingredient <T> Cuttlefish
+<H> Arros negre <R> ingredient <T> Squid
+<H> Asam pedas <R> country <T> Malaysia
+<H> Avocado <R> genus <T> Persea
+<H> Ayam penyet <R> serving Temperature <T> Hot
+<H> Baked Alaska <R> course <T> Dessert
+<H> Bakewell tart <R> ingredient <T> Frangipane
+<H> Bakso <R> ingredient <T> Noodle
+<H> Bakso <R> ingredient <T> Vermicelli
+<H> Bandeja paisa <R> ingredient <T> Chorizo
+<H> Barny Cakes <R> creator <T> Mondelez International
+<H> Barny Cakes <R> dish Variation <T> Chocolate
+<H> Barny Cakes <R> protein <T> 1.8 g
+<H> Batchoy <R> country <T> Philippines
+<H> Batchoy <R> ingredient <T> Chicken
+<H> Batchoy <R> ingredient <T> Vegetable
+<H> Binignit <R> region <T> Visayas
+<H> Derbyshire Dales <R> leader Name <T> Patrick McLoughlin
+<H> Dessert <R> dish Variation <T> Cake
+<H> Dessert <R> dish Variation <T> Ice cream
+<H> Indonesia <R> leader Name <T> Jusuf Kalla
+<H> Italy <R> demonym <T> Italians
+<H> Java <R> ethnic Group <T> Baduy
+<H> Lemon <R> order <T> Rosids
+<H> Mexico <R> demonym <T> Mexicans
+<H> Mexico <R> language <T> Spanish language
+<H> Philippines <R> language <T> Arabic
+<H> Siomay <R> dish Variation <T> Shumai
+<H> United States <R> ethnic Group <T> Native Americans in the United States
+<H> Ataturk Monument Izmir <R> designer <T> Pietro Canonica
+<H> Ataturk Monument Izmir <R> material <T> Bronze
+<H> Azerbaijan <R> leader Name <T> Artur Rasizade
+<H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan
+<H> Baku Turkish Martyrs' Memorial <R> material <T> Red granite and white marble
+<H> 1. FC Koln <R> manager <T> Peter Stoger
+<H> 1. FC Magdeburg <R> season <T> 2014
+<H> A.C. Lumezzane <R> season <T> 2014-15 Lega Pro
+<H> A.D. Isidro Metapan <R> fullname <T> Asociacion Deportiva
+<H> A.E Dimitra Efxeinoupolis <R> fullname <T> A.E Dimitra Efxeinoupolis
+<H> A.E Dimitra Efxeinoupolis <R> season <T> 2014
+<H> A.E Dimitra Efxeinoupolis <R> season <T> 2014-15 A EPSTH Greece
+<H> A.F.C. Blackpool <R> number Of Members <T> 1500
+<H> A.F.C. Fylde <R> ground <T> The Fylde
+<H> A.S. Gubbio 1910 <R> ground <T> Italy
+<H> A.S. Livorno Calcio <R> number Of Members <T> 19238
+<H> A.S. Roma <R> season <T> 2014-15 Serie A
+<H> AFC Ajax <R> manager <T> Frank de Boer
+<H> AFC Ajax amateurs <R> nickname <T> Joden Godenzonen
+<H> AFC Ajax amateurs <R> number Of Members <T> 5000
+<H> AZAL PFK <R> location <T> Shuvalan Baku Azerbaijan
+<H> AZ Alkmaar <R> number Of Members <T> 17023
+<H> Agremiacao Sportiva Arapiraquense <R> manager <T> Vica
+<H> Agremiacao Sportiva Arapiraquense <R> season <T> 2015 Campeonato Brasileiro Serie C
+<H> Akron Summit Assault <R> ground <T> St. Vincent-St. Mary High School
+<H> Akron Summit Assault <R> number Of Members <T> 3000
+<H> Amsterdam <R> part <T> Amsterdam-Centrum
+<H> Greece <R> leader <T> Nikos Voutsis
+<H> Gus Poyet <R> club <T> AEK Athens F.C.
+<H> Jens Hartel <R> club <T> SV Germania Schoneiche
+<H> John van den Brom <R> club <T> AZ Alkmaar
+<H> Jorge Humberto Rodriguez <R> club <T> A.D. Isidro Metapan
+<H> Massimo Drago <R> club <T> Delfino Pescara 1936
+<H> Massimo Drago <R> club <T> S.S. Chieti Calcio
+<H> Olympic Stadium Athens <R> location <T> Marousi
+<H> Premier Development League <R> champions <T> K-W United FC
+<H> Stuart Parker footballer <R> club <T> Bury F.C.
+<H> Accademia di Architettura di Mendrisio <R> academic Staff Size <T> 100
+<H> Acharya Institute of Technology <R> campus <T> In Soldevanahalli Acharya Dr. Sarvapalli Radhakrishnan Road Hessarghatta Main Road Bangalore - 560090.
+<H> Alba Iulia <R> country <T> Romania
+<H> Alba Iulia <R> is Part Of <T> Alba County
+<H> Romania <R> patron Saint <T> Andrew the Apostle
+<H> School of Business and Social Sciences at the Aarhus University <R> academic Staff Size <T> 737
+<H> School of Business and Social Sciences at the Aarhus University <R> country <T> Denmark
+<H> 1634: The Bavarian Crisis <R> author <T> Eric Flint
+<H> 1634: The Bavarian Crisis <R> preceded By <T> The Grantville Gazettes
+<H> 1634: The Ram Rebellion <R> followed By <T> 1635: The Cannon Law
+<H> AIP Advances <R> EISSN number <T> 2158
+<H> A Fortress of Grey Ice <R> media Type <T> Hardcover
+<H> A Long Long Way <R> ISBN number <T> 0-670-03380-4
+<H> A Loyal Character Dancer <R> ISBN number <T> 1-56947-301-3
+<H> A Severed Wasp <R> author <T> Madeleine L'Engle
+<H> A Wizard of Mars <R> language <T> English language
+<H> Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg <R> LCCN number <T> 32024459
+<H> Above the Veil <R> media Type <T> Hardcover
+<H> Acta Mathematica Hungarica <R> abbreviation <T> Acta Math. Hungar.
+<H> Acta Mathematica Hungarica <R> academic Discipline <T> Mathematics
+<H> Acta Palaeontologica Polonica <R> CODEN code <T> APGPAC
+<H> Addiction journal <R> OCLC number <T> 27367194
+<H> Addiction journal <R> publisher <T> Wiley-Blackwell
+<H> Administrative Science Quarterly <R> LCCN number <T> 57059226
+<H> Aenir <R> OCLC number <T> 45644811
+<H> Alcatraz Versus the Evil Librarians <R> OCLC number <T> 78771100
+<H> Alcatraz Versus the Evil Librarians <R> followed By <T> Alcatraz Versus the Scrivener's Bones
+<H> American Journal of Mathematics <R> impact Factor <T> 1.337
+<H> Castle novel <R> followed By <T> Aenir
+<H> Cornell University <R> nickname <T> Cornell Big Red
+<H> HIV <R> genus <T> Lentivirus
+<H> John Cowper Powys <R> notable Work <T> Wolf Solent
+<H> United Kingdom <R> leader Name <T> Elizabeth II
+<H> United States <R> leader Name <T> Joe Biden
+<H> Wolf Solent <R> author <T> John Cowper Powys
+<H> Abilene Regional Airport <R> city Served <T> Abilene Texas <H> Abilene Texas <R> is Part Of <T> Texas
+<H> Adolfo Suarez Madrid-Barajas Airport <R> location <T> Alcobendas <H> Adolfo Suarez Madrid-Barajas Airport <R> runway Length <T> 3500.0
+<H> Adolfo Suarez Madrid-Barajas Airport <R> runway Length <T> 3500.0 <H> Adolfo Suarez Madrid-Barajas Airport <R> location <T> San Sebastian de los Reyes
+<H> Agra Airport <R> location <T> India <H> India <R> leader Name <T> T. S. Thakur
+<H> Al Asad Airbase <R> elevation Above The Sea Level in feet <T> 618 <H> Al Asad Airbase <R> location <T> Al Anbar Province Iraq
+<H> Al Asad Airbase <R> operating Organisation <T> United States Air Force <H> United States Air Force <R> battles <T> Operation Enduring Freedom
+<H> Al Asad Airbase <R> operating Organisation <T> United States Air Force <H> United States Air Force <R> battles <T> United States invasion of Panama
+<H> Alcobendas <R> is Part Of <T> Community of Madrid <H> Adolfo Suarez Madrid-Barajas Airport <R> location <T> Alcobendas
+<H> Alderney Airport <R> 1st runway Surface Type <T> Poaceae <H> Alderney Airport <R> runway Length <T> 877.0
+<H> Allama Iqbal International Airport <R> operating Organisation <T> Pakistan Civil Aviation Authority <H> Pakistan Civil Aviation Authority <R> headquarter <T> Jinnah International Airport
+<H> Alpena County Regional Airport <R> location <T> Wilson Township Alpena County Michigan <H> Wilson Township Alpena County Michigan <R> is Part Of <T> United States
+<H> Amsterdam Airport Schiphol <R> elevation Above The Sea Level in metres <T> -3.3528 <H> Amsterdam Airport Schiphol <R> operating Organisation <T> Schiphol Group
+<H> Andrews County Airport <R> 4th runway Surface Type <T> Asphalt <H> Andrews County Airport <R> elevation Above The Sea Level in metres <T> 973.0
+<H> Andrews County Airport <R> location <T> Texas <H> Texas <R> capital <T> Austin Texas
+<H> Angola International Airport <R> city Served <T> Luanda <H> Angola International Airport <R> elevation Above The Sea Level in metres <T> 159
+<H> Angola International Airport <R> location <T> Icolo e Bengo <H> Icolo e Bengo <R> country <T> Angola
+<H> Antwerp International Airport <R> operating Organisation <T> Flemish department of Mobility and Public Works <H> Antwerp International Airport <R> elevation Above The Sea Level in metres <T> 12.0
+<H> Appleton International Airport <R> city Served <T> Appleton Wisconsin <H> Appleton Wisconsin <R> is Part Of <T> Grand Chute Wisconsin
+<H> Ardmore Airport New Zealand <R> 2nd runway Surface Type <T> Poaceae <H> Poaceae <R> order <T> Poales
+<H> Ardmore Airport New Zealand <R> 3rd runway Surface Type <T> Poaceae <H> Poaceae <R> class <T> Monocotyledon
+<H> Ashgabat International Airport <R> runway Length <T> 3800.0 <H> Ashgabat International Airport <R> location <T> Ashgabat
+<H> Athens International Airport <R> city Served <T> Athens <H> Athens International Airport <R> location <T> Spata
+<H> Athens International Airport <R> city Served <T> Athens <H> Athens International Airport <R> runway Length <T> 3800.0
+<H> San Sebastian de los Reyes <R> is Part Of <T> Community of Madrid <H> Adolfo Suarez Madrid-Barajas Airport <R> location <T> San Sebastian de los Reyes
+<H> Alan Shepard <R> was a crew member of <T> Apollo 14 <H> Alan Shepard <R> date Of Retirement <T> 1974-08-01
+<H> Buzz Aldrin <R> birth Place <T> Glen Ridge New Jersey <H> Buzz Aldrin <R> nationality <T> United States
+<H> Buzz Aldrin <R> occupation <T> Fighter pilot <H> Buzz Aldrin <R> status <T> Retired
+<H> Buzz Aldrin <R> was a crew member of <T> Apollo 11 <H> Apollo 11 <R> operator <T> NASA
+<H> Buzz Aldrin <R> was a crew member of <T> Apollo 11 <H> Buzz Aldrin <R> occupation <T> Fighter pilot
+<H> 11 Diagonal Street <R> location <T> South Africa <H> South Africa <R> ethnic Group <T> Coloured
+<H> 200 Public Square <R> location <T> Cleveland <H> 200 Public Square <R> floor Count <T> 45
+<H> 20 Fenchurch Street <R> location <T> London <H> London <R> leader Title <T> European Parliament
+<H> 250 Delaware Avenue <R> location <T> United States <H> United States <R> leader Name <T> Barack Obama
+<H> 300 North LaSalle <R> location <T> Illinois <H> 300 North LaSalle <R> floor Count <T> 60
+<H> 3Arena <R> location <T> North Wall Dublin <H> 3Arena <R> architect <T> HOK SVE
+<H> 3Arena <R> owner <T> Live Nation Entertainment <H> 3Arena <R> location <T> East Link Bridge
+<H> 3Arena <R> owner <T> Live Nation Entertainment <H> Live Nation Entertainment <R> location <T> Beverly Hills California
+<H> AC Hotel Bella Sky Copenhagen <R> tenant <T> Marriott International <H> AC Hotel Bella Sky Copenhagen <R> floor Count <T> 23
+<H> Addis Ababa City Hall <R> current Tenants <T> Government of Addis Ababa <H> Addis Ababa City Hall <R> height <T> 42 m
+<H> Adisham Hall <R> architectural Style <T> Tudor and Jacabian <H> Adisham Hall <R> location <T> Haputale Sri Lanka
+<H> Adisham Hall <R> country <T> Sri Lanka <H> Sri Lanka <R> language <T> Tamil language
+<H> Alan B. Miller Hall <R> building Start Date <T> 30 March 2007 <H> Alan B. Miller Hall <R> address <T> 101 Ukrop Way
+<H> Alan B. Miller Hall <R> owner <T> College of William & Mary <H> Alan B. Miller Hall <R> location <T> Williamsburg Virginia
+<H> Alan B. Miller Hall <R> tenant <T> Mason School of Business <H> Alan B. Miller Hall <R> architect <T> Robert A. M. Stern
+<H> Ampara Hospital <R> country <T> Sri Lanka <H> Ampara Hospital <R> region <T> Ampara District
+<H> Ampara Hospital <R> country <T> Sri Lanka <H> Sri Lanka <R> capital <T> Sri Jayawardenepura Kotte
+<H> Asher and Mary Isabelle Richardson House <R> location <T> U.S. Route 83 <H> Asher and Mary Isabelle Richardson House <R> Reference Number in the National Register of Historic Places <T> 88002539
+<H> Asilomar Conference Grounds <R> location <T> Asilomar Blvd. Pacific Grove California <H> Asilomar Conference Grounds <R> Reference Number in the National Register of Historic Places <T> 87000823
+<H> Asilomar Conference Grounds <R> location <T> Pacific Grove California <H> Asilomar Conference Grounds <R> added to the National Register of Historic Places <T> 1987-02-27
+<H> Asser Levy Public Baths <R> location <T> 23rd Street Manhattan <H> Asser Levy Public Baths <R> year Of Construction <T> 1904
+<H> Gujarat <R> leader Name <T> Anandiben Patel <H> Amdavad ni Gufa <R> location <T> Gujarat
+<H> Asterix comicsCharacter <R> creator <T> Rene Goscinny <H> Asterix comicsCharacter <R> creator <T> Albert Uderzo
+<H> Aurakles <R> creator <T> Len Wein <H> Aurakles <R> alternative Name <T> Aurakles
+<H> Ballistic comicsCharacter <R> creator <T> Doug Moench <H> Ballistic comicsCharacter <R> alternative Name <T> Kelvin Mao
+<H> Bananaman <R> broadcasted By <T> BBC <H> Bananaman <R> starring <T> Graeme Garden
+<H> Bananaman <R> starring <T> Bill Oddie <H> Bill Oddie <R> birth Place <T> Lancashire
+<H> Bibbo Bibbowski <R> creator <T> Jerry Ordway <H> Jerry Ordway <R> nationality <T> Americans
+<H> Black Pirate <R> creator <T> Sheldon Moldoff <H> Black Pirate <R> alternative Name <T> Jon Valor
+<H> Blockbuster comicsCharacter <R> creator <T> Roger Stern <H> Blockbuster comicsCharacter <R> creator <T> Tom Lyle
+<H> Bolt comicsCharacter <R> creator <T> Paris Cullins <H> Bolt comicsCharacter <R> creator <T> Gary Cohn comics
+<H> Ajoblanco <R> country <T> Spain <H> Ajoblanco <R> ingredient <T> Bread
+<H> Ajoblanco <R> ingredient <T> Almond <H> Ajoblanco <R> region <T> Andalusia
+<H> Amatriciana sauce <R> region <T> Lazio <H> Amatriciana sauce <R> ingredient <T> Tomato
+<H> Antioquia Department <R> country <T> Colombia <H> Bandeja paisa <R> region <T> Antioquia Department
+<H> Arem-arem <R> region <T> Indonesia <H> Arem-arem <R> ingredient <T> Banana leaf
+<H> Arrabbiata sauce <R> country <T> Italy <H> Arrabbiata sauce <R> ingredient <T> Olive oil
+<H> Arrabbiata sauce <R> country <T> Italy <H> Italy <R> capital <T> Rome
+<H> Arrabbiata sauce <R> ingredient <T> Tomato <H> Arrabbiata sauce <R> country <T> Italy
+<H> Arros negre <R> country <T> Spain <H> Arros negre <R> ingredient <T> Squid
+<H> Arros negre <R> region <T> Valencian Community <H> Arros negre <R> ingredient <T> Cuttlefish
+<H> Ayam penyet <R> country <T> Java <H> Ayam penyet <R> main Ingredients <T> Squeezed or smashed fried chicken served with sambal
+<H> Bacon Explosion <R> country <T> United States <H> Bacon Explosion <R> ingredient <T> Sausage
+<H> Bacon Explosion <R> country <T> United States <H> United States <R> leader Name <T> John Roberts
+<H> Bacon Explosion <R> ingredient <T> Bacon <H> Bacon Explosion <R> course <T> Main course
+<H> Bacon sandwich <R> alternative Name <T> Bacon butty bacon sarnie rasher sandwich bacon sanger piece 'n bacon bacon cob bacon barm bacon muffin <H> Bacon sandwich <R> ingredient <T> Bread
+<H> Baked Alaska <R> country <T> France United States or China <H> Baked Alaska <R> ingredient <T> Christmas pudding
+<H> Baked Alaska <R> country <T> China <H> China <R> language <T> Standard Chinese
+<H> Baked Alaska <R> course <T> Dessert <H> Dessert <R> dish Variation <T> Cookie
+<H> Bakewell pudding <R> creator <T> Rutland Arms Bakewell in 1820 <H> Bakewell pudding <R> main Ingredients <T> Ground almond jam butter eggs
+<H> Bakewell pudding <R> dish Variation <T> Bakewell tart <H> Bakewell tart <R> ingredient <T> Shortcrust pastry
+<H> Bandeja paisa <R> ingredient <T> Lemon <H> Lemon <R> genus <T> Citrus
+<H> Batchoy <R> country <T> Philippines <H> Batchoy <R> ingredient <T> Shrimp
+<H> Batchoy <R> country <T> Philippines <H> Philippines <R> ethnic Group <T> Chinese Filipino
+<H> Beef kway teow <R> region <T> Singapore <H> Singapore <R> language <T> Standard Chinese
+<H> Beef kway teow <R> region <T> Singapore <H> Singapore <R> leader Name <T> Tony Tan
+<H> Bhajji <R> country <T> India <H> India <R> leader Name <T> Sumitra Mahajan
+<H> Bhajji <R> similar Dish <T> Pakora and other fritters made from wheat or corn flour <H> Bhajji <R> ingredient <T> Gram flour
+<H> Binignit <R> ingredient <T> Sweet potato <H> Binignit <R> main Ingredients <T> Banana
+<H> Binignit <R> ingredient <T> Sweet potato <H> Binignit <R> main Ingredients <T> Sago
+<H> Binignit <R> ingredient <T> Sweet potato <H> Sweet potato <R> division <T> Flowering plant
+<H> Binignit <R> main Ingredients <T> Sweet potato <H> Sweet potato <R> order <T> Solanales
+<H> Bionico <R> course <T> Dessert <H> Bionico <R> ingredient <T> Granola
+<H> Bionico <R> dish Variation <T> Honey <H> Bionico <R> course <T> Dessert
+<H> Dessert <R> dish Variation <T> Ice cream <H> Bionico <R> course <T> Dessert
+<H> Siomay <R> ingredient <T> Peanut sauce <H> Batagor <R> dish Variation <T> Siomay
+<H> Ataturk Monument Izmir <R> inauguration Date <T> 1932-07-27 <H> Ataturk Monument Izmir <R> location <T> Turkey
+<H> Baku Turkish Martyrs' Memorial <R> dedicated To <T> Ottoman Army soldiers killed in the Battle of Baku <H> Baku Turkish Martyrs' Memorial <R> material <T> Red granite and white marble
+<H> Baku Turkish Martyrs' Memorial <R> native Name <T> Turk Sehitleri Aniti <H> Baku Turkish Martyrs' Memorial <R> material <T> Red granite and white marble
+<H> Dead Man's Plack <R> dedicated To <T> AEthelwald Ealdorman of East Anglia <H> Dead Man's Plack <R> material <T> Rock geology
+<H> A.C. Cesena <R> league <T> Serie B <H> Serie B <R> champions <T> Carpi F.C. 1909
+<H> A.C. Chievo Verona <R> ground <T> Stadio Marc'Antonio Bentegodi <H> A.C. Chievo Verona <R> league <T> Serie A
+<H> A.C. Lumezzane <R> ground <T> Italy <H> Italy <R> leader <T> Pietro Grasso
+<H> A.D. Isidro Metapan <R> manager <T> Jorge Humberto Rodriguez <H> Jorge Humberto Rodriguez <R> club <T> C.D. FAS
+<H> A.E Dimitra Efxeinoupolis <R> number Of Members <T> 1500 <H> A.E Dimitra Efxeinoupolis <R> league <T> A EPSTH 2nd GROUP
+<H> A.F.C. Blackpool <R> manager <T> Stuart Parker footballer <H> Stuart Parker footballer <R> club <T> Runcorn F.C. Halton
+<H> A.F.C. Blackpool <R> manager <T> Stuart Parker footballer <H> Stuart Parker footballer <R> club <T> Sparta Rotterdam
+<H> A.F.C. Fylde <R> ground <T> The Fylde <H> A.F.C. Fylde <R> number Of Members <T> 3180
+<H> A.F.C. Fylde <R> number Of Members <T> 3180 <H> A.F.C. Fylde <R> ground <T> Bryning Lane
+<H> A.S. Livorno Calcio <R> manager <T> Christian Panucci <H> Christian Panucci <R> club <T> Italy national football team
+<H> A.S. Roma <R> ground <T> Rome Italy <H> A.S. Roma <R> league <T> Serie A
+<H> ACF Fiorentina <R> league <T> Serie A <H> Serie A <R> country <T> Italy
+<H> AFC Ajax <R> manager <T> Frank de Boer <H> Frank de Boer <R> club <T> Ajax Youth Academy
+<H> AFC Ajax <R> owner <T> AFC Ajax N.V. <H> AFC Ajax <R> number Of Members <T> 53502
+<H> AFC Ajax amateurs <R> ground <T> Amsterdam <H> Amsterdam <R> leader <T> Eberhard van der Laan
+<H> AFC Ajax amateurs <R> season <T> 2014-15 Topklasse <H> AFC Ajax amateurs <R> number Of Members <T> 5000
+<H> AZAL Arena <R> location <T> Shuvalan <H> AZAL PFK <R> ground <T> AZAL Arena
+<H> AZ Alkmaar <R> fullname <T> Alkmaar Zaanstreek <H> AZ Alkmaar <R> number Of Members <T> 17023
+<H> Agremiacao Sportiva Arapiraquense <R> ground <T> Estadio Municipal Coaracy da Mata Fonseca <H> Estadio Municipal Coaracy da Mata Fonseca <R> location <T> Brazil
+<H> Agremiacao Sportiva Arapiraquense <R> number Of Members <T> 17000 <H> Agremiacao Sportiva Arapiraquense <R> fullname <T> Agremiacao Sportiva Arapiraquense
+<H> Akron Summit Assault <R> ground <T> Akron Ohio <H> Akron Ohio <R> country <T> United States
+<H> Massimo Drago <R> club <T> S.S. Chieti Calcio <H> A.C. Cesena <R> manager <T> Massimo Drago
+<H> Acharya Institute of Technology <R> director <T> Dr. G. P. Prabhukumar <H> Acharya Institute of Technology <R> campus <T> In Soldevanahalli Acharya Dr. Sarvapalli Radhakrishnan Road Hessarghatta Main Road Bangalore - 560090.
+<H> Acharya Institute of Technology <R> official School Colour <T> Blue White and Orange <H> Acharya Institute of Technology <R> was given the 'Technical Campus' status by <T> All India Council for Technical Education
+<H> Acharya Institute of Technology <R> sports Offered <T> Tennis <H> Tennis <R> sports Governing Body <T> International Tennis Federation
+<H> European University Association <R> headquarters <T> Brussels <H> School of Business and Social Sciences at the Aarhus University <R> affiliation <T> European University Association
+<H> Karnataka <R> has to its west <T> Arabian Sea <H> Acharya Institute of Technology <R> state <T> Karnataka
+<H> 1634: The Bavarian Crisis <R> preceded By <T> Grantville Gazette III <H> 1634: The Bavarian Crisis <R> author <T> Virginia DeMarce and Eric Flint
+<H> 1634: The Ram Rebellion <R> author <T> Eric Flint <H> 1634: The Ram Rebellion <R> media Type <T> E-book
+<H> 1634: The Ram Rebellion <R> author <T> Eric Flint <H> 1634: The Ram Rebellion <R> media Type <T> Hardcover
+<H> ACM Transactions on Information Systems <R> abbreviation <T> ACM Trans. Inf. Syst. <H> ACM Transactions on Information Systems <R> CODEN code <T> ATISET
+<H> AIDS journal <R> country <T> United Kingdom <H> United Kingdom <R> leader Name <T> Elizabeth II
+<H> A Fortress of Grey Ice <R> author <T> J. V. Jones <H> A Fortress of Grey Ice <R> ISBN number <T> 0-7653-0633-6
+<H> A Glastonbury Romance <R> media Type <T> Print <H> A Glastonbury Romance <R> ISBN number <T> 0-7156-3648-0
+<H> A Glastonbury Romance <R> media Type <T> Hardcover <H> A Glastonbury Romance <R> ISBN number <T> 0-7156-3648-0
+<H> A Glastonbury Romance <R> number Of Pages <T> 1174 <H> A Glastonbury Romance <R> media Type <T> Print
+<H> A Long Long Way <R> OCLC number <T> 57392246 <H> A Long Long Way <R> ISBN number <T> 0-670-03380-4
+<H> A Loyal Character Dancer <R> country <T> United States <H> United States <R> ethnic Group <T> Asian Americans
+<H> A Loyal Character Dancer <R> publisher <T> Soho Press <H> Soho Press <R> country <T> United States
+<H> A Wizard of Mars <R> author <T> Diane Duane <H> A Wizard of Mars <R> OCLC number <T> 318875313
+<H> A Wizard of Mars <R> media Type <T> Hardcover <H> A Wizard of Mars <R> ISBN number <T> 978-0-15-204770-2
+<H> A Wizard of Mars <R> number Of Pages <T> 560 <H> A Wizard of Mars <R> ISBN number <T> 978-0-15-204770-2
+<H> Above the Veil <R> country <T> Australians <H> Above the Veil <R> preceded By <T> Aenir
+<H> Above the Veil <R> language <T> English language <H> Aenir <R> followed By <T> Above the Veil
+<H> Above the Veil <R> preceded By <T> Aenir <H> Aenir <R> preceded By <T> Castle novel
+<H> Acta Mathematica Hungarica <R> publisher <T> Springer Science+Business Media <H> Springer Science+Business Media <R> founder <T> Julius Springer
+<H> Administrative Science Quarterly <R> CODEN code <T> ASCQAG <H> Administrative Science Quarterly <R> abbreviation <T> Admin. Sci. Q.
+<H> Administrative Science Quarterly <R> publisher <T> Cornell University <H> Cornell University <R> affiliation <T> Association of Public and Land-grant Universities
+<H> Aenir <R> author <T> Garth Nix <H> Aenir <R> ISBN number <T> 0-439-17684-0
+<H> Alcatraz Versus the Evil Librarians <R> media Type <T> Hardcover <H> Alcatraz Versus the Evil Librarians <R> ISBN number <T> 0-439-92550-9
+<H> Alcatraz Versus the Evil Librarians <R> number Of Pages <T> 320 <H> Alcatraz Versus the Evil Librarians <R> ISBN number <T> 0-439-92550-9
+<H> HIV <R> family <T> Orthoretrovirinae <H> AIDS journal <R> academic Discipline <T> HIV
+<H> United States <R> language <T> English language <H> A Fortress of Grey Ice <R> country <T> United States
+<H> Abilene Regional Airport <R> city Served <T> Abilene Texas <H> Abilene Texas <R> is Part Of <T> Taylor County Texas <H> Abilene Texas <R> country <T> United States
+<H> Adirondack Regional Airport <R> runway Length <T> 1219.0 <H> Adirondack Regional Airport <R> city Served <T> Lake Placid New York <H> Adirondack Regional Airport <R> city Served <T> Saranac Lake New York
+<H> Adolfo Suarez Madrid-Barajas Airport <R> runway Length <T> 4100.0 <H> Adolfo Suarez Madrid-Barajas Airport <R> location <T> Madrid <H> Adolfo Suarez Madrid-Barajas Airport <R> runway Name <T> 14L/32R
+<H> Agra Airport <R> location <T> India <H> Agra Airport <R> operating Organisation <T> Indian Air Force <H> Agra Airport <R> ICAO Location Identifier <T> VIAG
+<H> Al Asad Airbase <R> operating Organisation <T> United States Air Force <H> Al Asad Airbase <R> location <T> Iraq <H> Al Asad Airbase <R> runway Length <T> 3078.48
+<H> Al Asad Airbase <R> operating Organisation <T> United States Air Force <H> United States Air Force <R> battles <T> Invasion of Grenada <H> United States Air Force <R> battles <T> Korean War
+<H> Al Asad Airbase <R> operating Organisation <T> United States Air Force <H> United States Air Force <R> battles <T> Invasion of Grenada <H> United States Air Force <R> battles <T> Operation Enduring Freedom
+<H> Al Asad Airbase <R> operating Organisation <T> United States Air Force <H> United States Air Force <R> battles <T> Korean War <H> United States Air Force <R> battles <T> Operation Enduring Freedom
+<H> Alderney Airport <R> 1st runway Surface Type <T> Poaceae <H> Alderney Airport <R> runway Length <T> 733.0 <H> Alderney Airport <R> city Served <T> Alderney
+<H> Alpena County Regional Airport <R> location <T> Wilson Township Alpena County Michigan <H> Alpena County Regional Airport <R> runway Length <T> 1533.0 <H> Alpena County Regional Airport <R> elevation Above The Sea Level in metres <T> 210
+<H> Amsterdam Airport Schiphol <R> city Served <T> Amsterdam <H> Amsterdam Airport Schiphol <R> runway Length <T> 3500.0 <H> Amsterdam Airport Schiphol <R> elevation Above The Sea Level in metres <T> -3.3528
+<H> Andrews County Airport <R> location <T> Texas <H> Texas <R> largest City <T> Houston <H> Texas <R> country <T> United States
+<H> Angola International Airport <R> location <T> Icolo e Bengo <H> Icolo e Bengo <R> country <T> Angola <H> Angola International Airport <R> runway Length <T> 4000.0
+<H> Angola International Airport <R> location <T> Icolo e Bengo <H> Icolo e Bengo <R> country <T> Angola <H> Angola International Airport <R> runway Name <T> South Runway
+<H> Antwerp International Airport <R> operating Organisation <T> Flemish Government <H> Antwerp International Airport <R> owner <T> Flemish Region <H> Antwerp International Airport <R> elevation Above The Sea Level in metres <T> 12.0
+<H> Antwerp International Airport <R> owner <T> Flemish Region <H> Antwerp International Airport <R> operating Organisation <T> Flemish department of Mobility and Public Works <H> Antwerp International Airport <R> city Served <T> Antwerp
+<H> Appleton Wisconsin <R> is Part Of <T> Kimberly Wisconsin <H> Appleton Wisconsin <R> is Part Of <T> Little Chute Wisconsin <H> Appleton International Airport <R> city Served <T> Appleton Wisconsin
+<H> Appleton International Airport <R> location <T> Greenville Wisconsin <H> Greenville Wisconsin <R> country <T> United States <H> Greenville Wisconsin <R> is Part Of <T> Clayton Winnebago County Wisconsin
+<H> Ardmore Airport New Zealand <R> 3rd runway Surface Type <T> Poaceae <H> Poaceae <R> division <T> Flowering plant <H> Poaceae <R> order <T> Poales
+<H> Ashgabat International Airport <R> location <T> Ashgabat <H> Ashgabat International Airport <R> runway Length <T> 3800.0 <H> Ashgabat International Airport <R> elevation Above The Sea Level in metres <T> 211
+<H> Athens International Airport <R> city Served <T> Athens <H> Athens <R> country <T> Greece <H> Greece <R> leader Name <T> Alexis Tsipras
+<H> Atlantic City International Airport <R> runway Name <T> 4/22 <H> Atlantic City International Airport <R> location <T> Egg Harbor Township New Jersey <H> Egg Harbor Township New Jersey <R> country <T> United States
+<H> Belgium <R> leader Name <T> Philippe of Belgium <H> Antwerp International Airport <R> city Served <T> Antwerp <H> Antwerp <R> country <T> Belgium
+<H> Poaceae <R> class <T> Monocotyledon <H> Poaceae <R> order <T> Commelinids <H> Ardmore Airport New Zealand <R> 2nd runway Surface Type <T> Poaceae
+<H> Alan Bean <R> was a crew member of <T> Apollo 12 <H> Apollo 12 <R> operator <T> NASA <H> Apollo 12 <R> commander <T> David Scott
+<H> Alan Shepard <R> death Date <T> 1998-07-21 <H> Alan Shepard <R> death Place <T> California <H> California <R> senators <T> Dianne Feinstein
+<H> Buzz Aldrin <R> alternative Names <T> Edwin E. Aldrin Jr. <H> Buzz Aldrin <R> was a crew member of <T> Apollo 11 <H> Buzz Aldrin <R> alma Mater <T> Massachusetts Institute of Technology Sc.D. 1963
+<H> Buzz Aldrin <R> birth Place <T> Glen Ridge New Jersey <H> Buzz Aldrin <R> time In Space <T> 52.0minutes <H> Buzz Aldrin <R> was a crew member of <T> Apollo 11
+<H> California <R> fossil <T> Smilodon <H> Alan Shepard <R> death Place <T> California <H> Alan Shepard <R> awards <T> Distinguished Service Medal United States Navy
+<H> Elliot See <R> death Place <T> St. Louis <H> Elliot See <R> death Date <T> 1966-02-28 <H> Elliot See <R> was selected by NASA <T> 1962
+<H> Elliot See <R> status <T> Deceased <H> Elliot See <R> birth Date <T> 1927-07-23 <H> Elliot See <R> birth Place <T> Dallas
+<H> William Anders <R> birth Date <T> 1933-10-17 <H> William Anders <R> birth Place <T> British Hong Kong <H> William Anders <R> was a crew member of <T> Apollo 8
+<H> 11 Diagonal Street <R> location <T> South Africa <H> South Africa <R> capital <T> Cape Town <H> South Africa <R> leader Name <T> Cyril Ramaphosa
+<H> 11 Diagonal Street <R> location <T> South Africa <H> South Africa <R> leader Name <T> Jacob Zuma <H> South Africa <R> ethnic Group <T> Coloured
+<H> 11 Diagonal Street <R> location <T> South Africa <H> South Africa <R> leader Name <T> Jacob Zuma <H> South Africa <R> ethnic Group <T> White South African
+<H> 200 Public Square <R> location <T> Cleveland <H> Cleveland <R> leader Name <T> Frank G. Jackson <H> Cleveland <R> country <T> United States
+<H> 250 Delaware Avenue <R> location <T> Buffalo New York <H> Buffalo New York <R> is Part Of <T> Erie County New York <H> Buffalo New York <R> is Part Of <T> New York
+<H> 300 North LaSalle <R> location <T> Chicago <H> Chicago <R> leader Name <T> Rahm Emanuel <H> Chicago <R> country <T> United States
+<H> 3Arena <R> location <T> Dublin <H> 3Arena <R> architect <T> HOK SVE <H> 3Arena <R> completion Date <T> December 2008
+<H> 3Arena <R> location <T> Dublin <H> 3Arena <R> architect <T> Populous company <H> 3Arena <R> completion Date <T> December 2008
+<H> 3Arena <R> owner <T> Live Nation Entertainment <H> Dublin <R> country <T> Republic of Ireland <H> 3Arena <R> location <T> Dublin
+<H> AC Hotel Bella Sky Copenhagen <R> location <T> Denmark <H> AC Hotel Bella Sky Copenhagen <R> tenant <T> Marriott International <H> AC Hotel Bella Sky Copenhagen <R> architect <T> 3XN
+<H> Adare Manor <R> completion Date <T> 1862 <H> Adare Manor <R> architect <T> James Pain <H> Adare Manor <R> owner <T> J. P. McManus
+<H> Addis Ababa City Hall <R> current Tenants <T> Government of Addis Ababa <H> Addis Ababa City Hall <R> floor Area <T> 140000.0 square metres <H> Addis Ababa City Hall <R> height <T> 42 m
+<H> Adisham Hall <R> location <T> Sri Lanka <H> Adisham Hall <R> architectural Style <T> Tudor Revival architecture <H> Adisham Hall <R> completion Date <T> 1931
+<H> Akita Museum of Art <R> floor Count <T> 3 <H> Akita Museum of Art <R> inauguration Date <T> 2013-09-28 <H> Akita Museum of Art <R> floor Area <T> 3746.66 square metres
+<H> Akita Museum of Art <R> location <T> Akita Akita <H> Akita Museum of Art <R> location <T> Akita Prefecture <H> Akita Akita <R> country <T> Japan
+<H> Alan B. Miller Hall <R> location <T> Virginia <H> Alan B. Miller Hall <R> owner <T> College of William & Mary <H> Alan B. Miller Hall <R> building Start Date <T> 30 March 2007
+<H> Alan B. Miller Hall <R> location <T> Virginia <H> Alan B. Miller Hall <R> owner <T> College of William & Mary <H> College of William & Mary <R> chancellor <T> Robert Gates
+<H> Alan B. Miller Hall <R> location <T> Virginia <H> Mason School of Business <R> country <T> United States <H> Alan B. Miller Hall <R> current Tenants <T> Mason School of Business
+<H> Alan B. Miller Hall <R> owner <T> College of William & Mary <H> Alan B. Miller Hall <R> location <T> Williamsburg Virginia <H> Alan B. Miller Hall <R> building Start Date <T> 30 March 2007
+<H> Ampara Hospital <R> country <T> Sri Lanka <H> Ampara Hospital <R> region <T> Ampara District <H> Ampara Hospital <R> bed Count <T> 476
+<H> Ampara Hospital <R> country <T> Sri Lanka <H> Sri Lanka <R> leader Name <T> Ranil Wickremesinghe <H> Ampara Hospital <R> state <T> Eastern Province Sri Lanka
+<H> Asher and Mary Isabelle Richardson House <R> location <T> U.S. Route 83 <H> Asher and Mary Isabelle Richardson House <R> added to the National Register of Historic Places <T> 1988-11-22 <H> Asher and Mary Isabelle Richardson House <R> year Of Construction <T> 1911
+<H> Asilomar Conference Grounds <R> location <T> Pacific Grove California <H> Asilomar Conference Grounds <R> added to the National Register of Historic Places <T> 1987-02-27 <H> Asilomar Conference Grounds <R> Reference Number in the National Register of Historic Places <T> 87000823
+<H> Asser Levy Public Baths <R> location <T> Asser Levy Place and East 23rd Street <H> Asser Levy Public Baths <R> Reference Number in the National Register of Historic Places <T> 80002709 <H> Asser Levy Public Baths <R> added to the National Register of Historic Places <T> 1980-04-23
+<H> Asser Levy Public Baths <R> location <T> New York City <H> New York City <R> country <T> United States <H> New York City <R> is Part Of <T> Manhattan
+<H> India <R> leader Name <T> T. S. Thakur <H> Amdavad ni Gufa <R> country <T> India <H> India <R> leader Name <T> Sumitra Mahajan
+<H> Auron comicsCharacter <R> creator <T> Karl Kesel <H> Karl Kesel <R> nationality <T> Americans <H> Auron comicsCharacter <R> creator <T> Walt Simonson
+<H> BBC <R> key Person <T> Tony Hall Baron Hall of Birkenhead <H> Bananaman <R> broadcasted By <T> BBC <H> BBC <R> location City <T> London
+<H> Bananaman <R> starring <T> Bill Oddie <H> Bananaman <R> first Aired <T> 1983-10-03 <H> Bananaman <R> broadcasted By <T> STV
+<H> Baymax <R> first Appearance In Film <T> Big Hero 6 film <H> Baymax <R> creator <T> Duncan Rouleau <H> Baymax <R> creator <T> Steven T. Seagle
+<H> Bibbo Bibbowski <R> creator <T> Jerry Ordway <H> Bibbo Bibbowski <R> creator <T> Marv Wolfman <H> Bibbo Bibbowski <R> full Name <T> Bo Bibbowski
+<H> Blockbuster comicsCharacter <R> creator <T> Roger Stern <H> Blockbuster comicsCharacter <R> alternative Name <T> Roland Desmond <H> Blockbuster comicsCharacter <R> creator <T> Tom Lyle
+<H> Bolt comicsCharacter <R> creator <T> Ernie Colon <H> Bolt comicsCharacter <R> alternative Name <T> Larry Bolatinsky <H> Bolt comicsCharacter <R> creator <T> Dan Mishkin
+<H> Bolt comicsCharacter <R> creator <T> Paris Cullins <H> Bolt comicsCharacter <R> alternative Name <T> Larry Bolatinsky <H> Bolt comicsCharacter <R> creator <T> Dan Mishkin
+<H> Ajoblanco <R> country <T> Spain <H> Ajoblanco <R> alternative Name <T> Ajo blanco <H> Ajoblanco <R> ingredient <T> Bread
+<H> Ajoblanco <R> country <T> Spain <H> Ajoblanco <R> region <T> Andalusia <H> Ajoblanco <R> ingredient <T> Water
+<H> Arem-arem <R> country <T> Indonesia <H> Indonesia <R> leader Name <T> Joko Widodo <H> Indonesia <R> leader Name <T> Jusuf Kalla
+<H> Arem-arem <R> country <T> Indonesia <H> Indonesia <R> leader Name <T> Jusuf Kalla <H> Arem-arem <R> region <T> Nationwide in Indonesia but more specific to Java
+<H> Arrabbiata sauce <R> country <T> Italy <H> Italy <R> language <T> Italian language <H> Italy <R> leader Name <T> Sergio Mattarella
+<H> Arrabbiata sauce <R> ingredient <T> Chili pepper <H> Arrabbiata sauce <R> country <T> Italy <H> Arrabbiata sauce <R> region <T> Rome
+<H> Arrabbiata sauce <R> ingredient <T> Garlic <H> Arrabbiata sauce <R> country <T> Italy <H> Arrabbiata sauce <R> region <T> Rome
+<H> Arros negre <R> country <T> Spain <H> Arros negre <R> region <T> Catalonia <H> Arros negre <R> ingredient <T> Squid
+<H> Arros negre <R> region <T> Valencian Community <H> Arros negre <R> country <T> Spain <H> Arros negre <R> ingredient <T> Cuttlefish
+<H> Asam pedas <R> country <T> Malaysia <H> Asam pedas <R> region <T> Sumatra and Malay Peninsula <H> Asam pedas <R> main Ingredients <T> Fish cooked in sour and hot sauce
+<H> Ayam penyet <R> region <T> Malaysia <H> Ayam penyet <R> country <T> Java <H> Ayam penyet <R> main Ingredients <T> Squeezed or smashed fried chicken served with sambal
+<H> Bacon Explosion <R> country <T> United States <H> Bacon Explosion <R> ingredient <T> Bacon <H> Bacon Explosion <R> main Ingredients <T> Sausage
+<H> Bacon Explosion <R> country <T> United States <H> United States <R> ethnic Group <T> Native Americans in the United States <H> United States <R> capital <T> Washington D.C.
+<H> Bacon Explosion <R> country <T> United States <H> United States <R> leader Name <T> Barack Obama <H> United States <R> capital <T> Washington D.C.
+<H> Bacon Explosion <R> country <T> United States <H> United States <R> leader Name <T> John Roberts <H> United States <R> ethnic Group <T> African Americans
+<H> Bacon sandwich <R> dish Variation <T> BLT <H> Bacon sandwich <R> country <T> United Kingdom <H> Bacon sandwich <R> ingredient <T> Condiment
+<H> Baked Alaska <R> country <T> France <H> Baked Alaska <R> region <T> New York <H> Baked Alaska <R> ingredient <T> Meringue
+<H> Baked Alaska <R> country <T> United States <H> Baked Alaska <R> region <T> New York <H> Baked Alaska <R> ingredient <T> Sponge cake
+<H> Baked Alaska <R> course <T> Dessert <H> Dessert <R> dish Variation <T> Cookie <H> Baked Alaska <R> ingredient <T> Christmas pudding
+<H> Baked Alaska <R> course <T> Dessert <H> Dessert <R> dish Variation <T> Sandesh confectionery <H> Baked Alaska <R> ingredient <T> Christmas pudding
+<H> Bandeja paisa <R> country <T> Colombian cuisine <H> Bandeja paisa <R> ingredient <T> Kidney bean <H> Bandeja paisa <R> region <T> Antioquia Department
+<H> Barny Cakes <R> country <T> France <H> France <R> leader Name <T> Gerard Larcher <H> France <R> leader Name <T> Claude Bartolone
+<H> Barny Cakes <R> dish Variation <T> Apple <H> Barny Cakes <R> carbohydrate <T> 18.0 g <H> Barny Cakes <R> protein <T> 1.8 g
+<H> Beef kway teow <R> country <T> Singapore <H> Singapore <R> currency <T> Singapore dollar <H> Singapore <R> leader Name <T> Halimah Yacob
+<H> Beef kway teow <R> ingredient <T> Oyster sauce <H> Beef kway teow <R> region <T> Indonesia <H> Beef kway teow <R> country <T> Singapore and Indonesia
+<H> Beef kway teow <R> region <T> Singapore <H> Beef kway teow <R> country <T> Indonesia <H> Singapore <R> leader Name <T> Tony Tan
+<H> Bhajji <R> country <T> India <H> Bhajji <R> main Ingredients <T> Gram flour vegetables <H> Bhajji <R> ingredient <T> Gram flour
+<H> Bhajji <R> country <T> India <H> India <R> demonym <T> Indian people <H> India <R> leader Name <T> T. S. Thakur
+<H> Bhajji <R> country <T> India <H> India <R> leader Name <T> T. S. Thakur <H> India <R> leader Name <T> Narendra Modi
+<H> Bhajji <R> region <T> Karnataka <H> Bhajji <R> main Ingredients <T> Gram flour vegetables <H> Bhajji <R> ingredient <T> Gram flour
+<H> Binignit <R> ingredient <T> Sweet potato <H> Binignit <R> main Ingredients <T> Banana <H> Binignit <R> country <T> Philippines
+<H> Bionico <R> country <T> Mexico <H> Bionico <R> course <T> Dessert <H> Bionico <R> ingredient <T> Sour cream
+<H> Bionico <R> country <T> Mexico <H> Bionico <R> region <T> Jalisco <H> Bionico <R> ingredient <T> Raisin
+<H> Celery <R> genus <T> Apium <H> Bakso <R> ingredient <T> Celery <H> Celery <R> family <T> Apiaceae
+<H> Dessert <R> dish Variation <T> Cake <H> Bionico <R> ingredient <T> Granola <H> Bionico <R> course <T> Dessert
+<H> Indonesia <R> capital <T> Jakarta <H> Indonesia <R> leader Name <T> Jusuf Kalla <H> Bakso <R> country <T> Indonesia
+<H> Java <R> ethnic Group <T> Baduy <H> Ayam penyet <R> region <T> Singapore <H> Ayam penyet <R> country <T> Java
+<H> Java <R> ethnic Group <T> Banyumasan people <H> Ayam penyet <R> region <T> Nationwide also can be found in Malaysia and Singapore <H> Ayam penyet <R> country <T> Java
+<H> Spain <R> language <T> Spanish language <H> Arros negre <R> country <T> Spain <H> Spain <R> leader Name <T> Felipe VI of Spain
+<H> Adams County Pennsylvania <R> has to its west <T> Franklin County Pennsylvania <H> Adams County Pennsylvania <R> has to its southwest <T> Frederick County Maryland <H> 11th Mississippi Infantry Monument <R> location <T> Adams County Pennsylvania
+<H> Azerbaijan <R> leader <T> Artur Rasizade <H> Baku Turkish Martyrs' Memorial <R> dedicated To <T> Ottoman Army soldiers killed in the Battle of Baku <H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan
+<H> Baku Turkish Martyrs' Memorial <R> dedicated To <T> Ottoman Army soldiers killed in the Battle of Baku <H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan <H> Baku Turkish Martyrs' Memorial <R> designer <T> Huseyin Butuner and Hilmi Guner
+<H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan <H> Azerbaijan <R> leader Name <T> Artur Rasizade <H> Baku Turkish Martyrs' Memorial <R> designer <T> Huseyin Butuner and Hilmi Guner
+<H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan <H> Baku Turkish Martyrs' Memorial <R> native Name <T> Turk Sehitleri Aniti <H> Baku Turkish Martyrs' Memorial <R> designer <T> Huseyin Butuner and Hilmi Guner
+<H> A.C. Cesena <R> ground <T> Cesena <H> A.C. Cesena <R> league <T> Serie B <H> A.C. Cesena <R> number Of Members <T> 23900
+<H> A.C. Cesena <R> manager <T> Massimo Drago <H> Massimo Drago <R> club <T> S.S.D. Potenza Calcio <H> Massimo Drago <R> club <T> Calcio Catania
+<H> A.C. Lumezzane <R> league <T> Lega Pro/A <H> A.C. Lumezzane <R> season <T> 2014 <H> A.C. Lumezzane <R> number Of Members <T> 4150
+<H> A.D. Isidro Metapan <R> ground <T> Estadio Jorge Calero Suarez <H> A.D. Isidro Metapan <R> fullname <T> Isidro Metapan <H> A.D. Isidro Metapan <R> number Of Members <T> 10000
+<H> A.E Dimitra Efxeinoupolis <R> location <T> Greece <H> Greece <R> leader <T> Nikos Voutsis <H> Greece <R> leader <T> Prokopis Pavlopoulos
+<H> A.F.C. Blackpool <R> manager <T> Stuart Parker footballer <H> Stuart Parker footballer <R> club <T> Drogheda United F.C. <H> Stuart Parker footballer <R> club <T> Runcorn F.C. Halton
+<H> A.F.C. Blackpool <R> manager <T> Stuart Parker footballer <H> Stuart Parker footballer <R> club <T> Drogheda United F.C. <H> Stuart Parker footballer <R> club <T> Stockport County F.C.
+<H> A.F.C. Blackpool <R> manager <T> Stuart Parker footballer <H> Stuart Parker footballer <R> club <T> KV Mechelen <H> Stuart Parker footballer <R> club <T> Irlam Town F.C.
+<H> A.F.C. Fylde <R> ground <T> Warton Fylde <H> A.F.C. Fylde <R> number Of Members <T> 3180 <H> A.F.C. Fylde <R> fullname <T> Association Football Club Fylde
+<H> A.S. Livorno Calcio <R> manager <T> Christian Panucci <H> Christian Panucci <R> club <T> Genoa C.F.C. <H> Christian Panucci <R> club <T> Real Madrid C.F.
+<H> A.S. Roma <R> fullname <T> Associazione Sportiva Roma S.p.A. <H> A.S. Roma <R> ground <T> Rome Italy <H> A.S. Roma <R> number Of Members <T> 70634
+<H> AEK Athens F.C. <R> league <T> Superleague Greece <H> AEK Athens F.C. <R> ground <T> Athens <H> AEK Athens F.C. <R> number Of Members <T> 69618
+<H> AFC Ajax amateurs <R> number Of Members <T> 5000 <H> AFC Ajax amateurs <R> league <T> Hoofdklasse <H> AFC Ajax amateurs <R> season <T> 2014
+<H> AZAL PFK <R> league <T> Azerbaijan Premier League <H> Azerbaijan Premier League <R> champions <T> Qarabag FK <H> AZAL PFK <R> ground <T> AZAL Arena
+<H> AZ Alkmaar <R> fullname <T> Alkmaar Zaanstreek <H> AZ Alkmaar <R> season <T> 2014 <H> AZ Alkmaar <R> number Of Members <T> 17023
+<H> AZ Alkmaar <R> manager <T> John van den Brom <H> John van den Brom <R> club <T> Vitesse Arnhem <H> John van den Brom <R> club <T> De Graafschap
+<H> Agremiacao Sportiva Arapiraquense <R> league <T> Campeonato Brasileiro Serie C <H> Agremiacao Sportiva Arapiraquense <R> ground <T> Estadio Municipal Coaracy da Mata Fonseca <H> Campeonato Brasileiro Serie C <R> champions <T> Vila Nova Futebol Clube
+<H> Agremiacao Sportiva Arapiraquense <R> league <T> Campeonato Brasileiro Serie C <H> Campeonato Brasileiro Serie C <R> country <T> Brazil <H> Campeonato Brasileiro Serie C <R> champions <T> Vila Nova Futebol Clube
+<H> Akron Summit Assault <R> ground <T> St. Vincent-St. Mary High School <H> Akron Summit Assault <R> league <T> Premier Development League <H> Premier Development League <R> champions <T> K-W United FC
+<H> Akron Summit Assault <R> number Of Members <T> 3000 <H> Akron Summit Assault <R> league <T> Premier Development League <H> Premier Development League <R> champions <T> K-W United FC
+<H> Italy <R> demonym <T> Italians <H> Italy <R> leader <T> Sergio Mattarella <H> A.S. Gubbio 1910 <R> ground <T> Italy
+<H> Olympic Stadium Athens <R> location <T> Athens <H> Athens <R> mayor <T> Giorgos Kaminis <H> AEK Athens F.C. <R> ground <T> Olympic Stadium Athens
+<H> Accademia di Architettura di Mendrisio <R> country <T> Switzerland <H> Accademia di Architettura di Mendrisio <R> dean <T> Mario Botta <H> Accademia di Architettura di Mendrisio <R> number Of Students <T> 600
+<H> Acharya Institute of Technology <R> city <T> Bangalore <H> Acharya Institute of Technology <R> motto <T> Nurturing Excellence <H> Acharya Institute of Technology <R> country <T> India
+<H> Acharya Institute of Technology <R> president <T> B.M. Reddy <H> Acharya Institute of Technology <R> city <T> Bangalore <H> Acharya Institute of Technology <R> country <T> India
+<H> Acharya Institute of Technology <R> sports Offered <T> Tennis <H> Acharya Institute of Technology <R> established <T> 2000 <H> Tennis <R> sports Governing Body <T> International Tennis Federation
+<H> India <R> largest City <T> Mumbai <H> AWH Engineering College <R> country <T> India <H> India <R> river <T> Ganges
+<H> Romania <R> leader Title <T> Prime Minister of Romania <H> Romania <R> leader Name <T> Klaus Iohannis <H> 1 Decembrie 1918 University <R> country <T> Romania
+<H> Romania <R> patron Saint <T> Andrew the Apostle <H> 1 Decembrie 1918 University <R> latin Name <T> Universitas Apulensis <H> 1 Decembrie 1918 University <R> country <T> Romania
+<H> School of Business and Social Sciences at the Aarhus University <R> academic Staff Size <T> 737 <H> School of Business and Social Sciences at the Aarhus University <R> number Of Students <T> 16000 <H> School of Business and Social Sciences at the Aarhus University <R> established <T> 1928
+<H> 1634: The Bavarian Crisis <R> ISBN number <T> 978-1-4165-4253-7 <H> 1634: The Bavarian Crisis <R> author <T> Virginia DeMarce and Eric Flint <H> 1634: The Bavarian Crisis <R> media Type <T> Print
+<H> 1634: The Bavarian Crisis <R> author <T> Eric Flint <H> 1634: The Bavarian Crisis <R> preceded By <T> 1634: The Baltic War <H> Eric Flint <R> birth Place <T> Burbank California
+<H> 1634: The Ram Rebellion <R> author <T> Eric Flint <H> 1634: The Ram Rebellion <R> media Type <T> E-book <H> 1634: The Ram Rebellion <R> number Of Pages <T> 512
+<H> 1634: The Ram Rebellion <R> author <T> Eric Flint <H> 1634: The Ram Rebellion <R> media Type <T> Hardcover <H> 1634: The Ram Rebellion <R> ISBN number <T> 1-4165-2060-0
+<H> 1634: The Ram Rebellion <R> media Type <T> E-book <H> 1634: The Ram Rebellion <R> number Of Pages <T> 512 <H> 1634: The Ram Rebellion <R> author <T> Eric Flint Virginia DeMarce et al.
+<H> ACM Transactions on Information Systems <R> abbreviation <T> ACM Trans. Inf. Syst. <H> ACM Transactions on Information Systems <R> academic Discipline <T> Computer science <H> ACM Transactions on Information Systems <R> ISSN number <T> 1046-8188
+<H> ACM Transactions on Information Systems <R> academic Discipline <T> Computer science <H> ACM Transactions on Information Systems <R> abbreviation <T> ACM Trans. Inf. Syst. <H> ACM Transactions on Information Systems <R> ISSN number <T> 1558-2868
+<H> AIDS journal <R> country <T> United Kingdom <H> AIDS journal <R> publisher <T> Lippincott Williams & Wilkins <H> United Kingdom <R> leader Name <T> Elizabeth II
+<H> AIP Advances <R> editor <T> A.T. Charlie Johnson <H> A.T. Charlie Johnson <R> residence <T> United States <H> AIP Advances <R> publisher <T> American Institute of Physics
+<H> AIP Advances <R> editor <T> A.T. Charlie Johnson <H> AIP Advances <R> abbreviation <T> AIP Adv. <H> AIP Advances <R> CODEN code <T> AAIDBI
+<H> A Glastonbury Romance <R> media Type <T> Hardcover <H> A Glastonbury Romance <R> OCLC number <T> 76798317 <H> A Glastonbury Romance <R> ISBN number <T> 0-7156-3648-0
+<H> A Long Long Way <R> language <T> English language <H> English language <R> spoken In <T> Great Britain <H> A Long Long Way <R> followed By <T> The Secret Scripture
+<H> A Loyal Character Dancer <R> publisher <T> Soho Press <H> A Loyal Character Dancer <R> country <T> United States <H> United States <R> ethnic Group <T> African Americans
+<H> A Loyal Character Dancer <R> publisher <T> Soho Press <H> Soho Press <R> country <T> United States <H> United States <R> leader Name <T> Barack Obama
+<H> A Severed Wasp <R> OCLC number <T> 8805735 <H> A Severed Wasp <R> Libraryof Congress Classification <T> PS3523.E55 S4 1982 <H> A Severed Wasp <R> media Type <T> Print
+<H> A Severed Wasp <R> number Of Pages <T> 388 <H> A Severed Wasp <R> media Type <T> Print <H> A Severed Wasp <R> ISBN number <T> 0-374-26131-8
+<H> A Wizard of Mars <R> media Type <T> Hardcover <H> A Wizard of Mars <R> OCLC number <T> 318875313 <H> A Wizard of Mars <R> author <T> Diane Duane
+<H> A Wizard of Mars <R> media Type <T> Hardcover <H> A Wizard of Mars <R> author <T> Diane Duane <H> A Wizard of Mars <R> ISBN number <T> 978-0-15-204770-2
+<H> Above the Veil <R> country <T> Australians <H> Above the Veil <R> preceded By <T> Aenir <H> Aenir <R> preceded By <T> Castle novel
+<H> Acta Mathematica Hungarica <R> LCCN number <T> 83646315 <H> Acta Mathematica Hungarica <R> abbreviation <T> Acta Math. Hungar. <H> Acta Mathematica Hungarica <R> ISSN number <T> 1588-2632
+<H> Acta Mathematica Hungarica <R> abbreviation <T> Acta Math. Hungar. <H> Acta Mathematica Hungarica <R> academic Discipline <T> Mathematics <H> Acta Mathematica Hungarica <R> ISSN number <T> 0236-5294
+<H> Acta Palaeontologica Polonica <R> ISSN number <T> 1732-2421 <H> Acta Palaeontologica Polonica <R> LCCN number <T> 60040714 <H> Acta Palaeontologica Polonica <R> abbreviation <T> Acta Palaeontol. Pol.
+<H> Addiction journal <R> academic Discipline <T> Addiction <H> Addiction journal <R> abbreviation <T> Addiction <H> Addiction journal <R> ISSN number <T> 0965-2140
+<H> Aenir <R> OCLC number <T> 45644811 <H> Aenir <R> author <T> Garth Nix <H> Aenir <R> media Type <T> Print
+<H> Aenir <R> author <T> Garth Nix <H> Aenir <R> media Type <T> Print <H> Aenir <R> ISBN number <T> 0-439-17684-0
+<H> American Journal of Mathematics <R> abbreviation <T> Am. J. Math. <H> American Journal of Mathematics <R> academic Discipline <T> Mathematics <H> American Journal of Mathematics <R> ISSN number <T> 1080-6377
+<H> American Journal of Mathematics <R> abbreviation <T> Am. J. Math. <H> American Journal of Mathematics <R> first Publication Year <T> 1878 <H> American Journal of Mathematics <R> ISSN number <T> 1080-6377
+<H> SAGE Publications <R> founder <T> Sara Miller McCune <H> Administrative Science Quarterly <R> abbreviation <T> Admin. Sci. Q. <H> Administrative Science Quarterly <R> publisher <T> SAGE Publications
+<H> United Kingdom <R> leader Name <T> David Cameron <H> AIDS journal <R> country <T> United Kingdom <H> AIDS journal <R> publisher <T> Lippincott Williams & Wilkins
+<H> United States <R> ethnic Group <T> African Americans <H> United States <R> leader Name <T> Barack Obama <H> A Fortress of Grey Ice <R> country <T> United States
+<H> United States <R> ethnic Group <T> Asian Americans <H> United States <R> language <T> English language <H> Alcatraz Versus the Evil Librarians <R> country <T> United States
+<H> Abilene Regional Airport <R> city Served <T> Abilene Texas <H> Abilene Texas <R> is Part Of <T> Texas <H> Abilene Regional Airport <R> runway Length <T> 1121.0 <H> Abilene Texas <R> country <T> United States
+<H> Adolfo Suarez Madrid-Barajas Airport <R> location <T> Alcobendas <H> ENAIRE <R> location City <T> Madrid <H> Alcobendas <R> country <T> Spain <H> Adolfo Suarez Madrid-Barajas Airport <R> operating Organisation <T> ENAIRE
+<H> Adolfo Suarez Madrid-Barajas Airport <R> runway Name <T> 18R/36L <H> Adolfo Suarez Madrid-Barajas Airport <R> runway Length <T> 3500.0 <H> Adolfo Suarez Madrid-Barajas Airport <R> location <T> Madrid Paracuellos de Jarama San Sebastian de los Reyes and Alcobendas <H> Adolfo Suarez Madrid-Barajas Airport <R> operating Organisation <T> ENAIRE
+<H> Agra Airport <R> elevation Above The Sea Level in metres <T> 167.94 <H> Agra Airport <R> location <T> Uttar Pradesh <H> Uttar Pradesh <R> is Part Of <T> Awadh <H> Uttar Pradesh <R> is Part Of <T> Bundelkhand
+<H> Agra Airport <R> location <T> Uttar Pradesh <H> Uttar Pradesh <R> is Part Of <T> Awadh <H> Uttar Pradesh <R> leader Name <T> Ram Naik <H> Uttar Pradesh <R> is Part Of <T> Bundelkhand
+<H> Al Asad Airbase <R> operating Organisation <T> United States Air Force <H> United States Air Force <R> attack Aircraft <T> Lockheed AC-130 <H> United States Air Force <R> aircraft Fighter <T> General Dynamics F-16 Fighting Falcon <H> United States Air Force <R> battles <T> 1986 United States bombing of Libya
+<H> Al Asad Airbase <R> operating Organisation <T> United States Air Force <H> United States Air Force <R> attack Aircraft <T> Lockheed AC-130 <H> United States Air Force <R> aircraft Fighter <T> General Dynamics F-16 Fighting Falcon <H> United States Air Force <R> battles <T> Operation Enduring Freedom
+<H> Al Asad Airbase <R> operating Organisation <T> United States Air Force <H> United States Air Force <R> attack Aircraft <T> Lockheed AC-130 <H> United States Air Force <R> aircraft Fighter <T> McDonnell Douglas F-15 Eagle <H> United States Air Force <R> battles <T> Operation Enduring Freedom
+<H> Al Asad Airbase <R> operating Organisation <T> United States Air Force <H> United States Air Force <R> battles <T> Invasion of Grenada <H> United States Air Force <R> attack Aircraft <T> Lockheed AC-130 <H> United States Air Force <R> aircraft Fighter <T> General Dynamics F-16 Fighting Falcon
+<H> Allama Iqbal International Airport <R> operating Organisation <T> Pakistan Civil Aviation Authority <H> Pakistan Civil Aviation Authority <R> headquarter <T> Jinnah International Airport <H> Allama Iqbal International Airport <R> location <T> Punjab Pakistan <H> Punjab Pakistan <R> leader Title <T> Provincial Assembly of the Punjab
+<H> Alpena County Regional Airport <R> location <T> Maple Ridge Township Alpena County Michigan <H> Alpena County Regional Airport <R> runway Length <T> 1533.0 <H> Alpena County Regional Airport <R> city Served <T> Alpena Michigan <H> Alpena County Regional Airport <R> elevation Above The Sea Level in metres <T> 210
+<H> Amsterdam Airport Schiphol <R> city Served <T> Amsterdam <H> Amsterdam Airport Schiphol <R> runway Name <T> 06/24 'Kaagbaan' <H> Amsterdam Airport Schiphol <R> runway Length <T> 2014.0 <H> Amsterdam Airport Schiphol <R> elevation Above The Sea Level in metres <T> -3.3528
+<H> Andrews County Airport <R> location <T> Texas <H> Texas <R> capital <T> Austin Texas <H> Texas <R> language <T> English language <H> Texas <R> demonym <T> Tejano
+<H> Andrews County Airport <R> location <T> Texas <H> Texas <R> language <T> English language <H> Texas <R> demonym <T> Texan <H> Texas <R> country <T> United States
+<H> Andrews County Airport <R> location <T> Texas <H> Texas <R> language <T> Spanish language <H> Texas <R> demonym <T> Texan <H> Texas <R> country <T> United States
+<H> Andrews County Airport <R> location <T> Texas <H> Texas <R> largest City <T> Houston <H> Texas <R> capital <T> Austin Texas <H> Texas <R> country <T> United States
+<H> Angola International Airport <R> location <T> Icolo e Bengo <H> Icolo e Bengo <R> country <T> Angola <H> Icolo e Bengo <R> is Part Of <T> Luanda Province <H> Angola International Airport <R> elevation Above The Sea Level in metres <T> 159
+<H> Antwerp International Airport <R> city Served <T> Antwerp <H> Flemish Region <R> leader Name <T> Flemish Government <H> Flemish Region <R> country <T> Belgium <H> Flemish Government <R> jurisdiction <T> Flemish Region
+<H> Appleton International Airport <R> location <T> Greenville Wisconsin <H> Appleton International Airport <R> runway Length <T> 2439.0 <H> Appleton International Airport <R> city Served <T> Appleton Wisconsin <H> Appleton International Airport <R> elevation Above The Sea Level in metres <T> 280
+<H> Appleton International Airport <R> location <T> Greenville Wisconsin <H> Greenville Wisconsin <R> is Part Of <T> Menasha town Wisconsin <H> Greenville Wisconsin <R> is Part Of <T> Dale Wisconsin <H> Appleton International Airport <R> city Served <T> Appleton Wisconsin
+<H> Ardmore Airport New Zealand <R> 3rd runway Surface Type <T> Poaceae <H> Poaceae <R> order <T> Poales <H> Poaceae <R> class <T> Monocotyledon <H> Poaceae <R> order <T> Commelinids
+<H> Ardmore Airport New Zealand <R> runway Length <T> 597.0 <H> Ardmore Airport New Zealand <R> 3rd runway Surface Type <T> Poaceae <H> Ardmore Airport New Zealand <R> elevation Above The Sea Level in metres <T> 34.0 <H> Ardmore Airport New Zealand <R> runway Name <T> 03R/21L
+<H> Atlantic City International Airport <R> runway Length <T> 1873.0 <H> Atlantic City International Airport <R> location <T> Egg Harbor Township New Jersey <H> Egg Harbor Township New Jersey <R> country <T> United States <H> Egg Harbor Township New Jersey <R> is Part Of <T> Atlantic County New Jersey
+<H> ENAIRE <R> location City <T> Madrid <H> Adolfo Suarez Madrid-Barajas Airport <R> location <T> Madrid Paracuellos de Jarama San Sebastian de los Reyes and Alcobendas <H> Madrid <R> country <T> Spain <H> Adolfo Suarez Madrid-Barajas Airport <R> operating Organisation <T> ENAIRE
+<H> Egg Harbor Township New Jersey <R> is Part Of <T> New Jersey <H> Atlantic City International Airport <R> runway Length <T> 3048.0 <H> Atlantic City International Airport <R> location <T> Egg Harbor Township New Jersey <H> Egg Harbor Township New Jersey <R> country <T> United States
+<H> Poaceae <R> class <T> Monocotyledon <H> Poaceae <R> division <T> Flowering plant <H> Poaceae <R> order <T> Commelinids <H> Ardmore Airport New Zealand <R> 2nd runway Surface Type <T> Poaceae
+<H> Alan Bean <R> was a crew member of <T> Apollo 12 <H> Alan Bean <R> nationality <T> United States <H> Apollo 12 <R> operator <T> NASA <H> Apollo 12 <R> commander <T> David Scott
+<H> Alan Shepard <R> alma Mater <T> NWC M.A. 1957 <H> Alan Shepard <R> birth Place <T> New Hampshire <H> Alan Shepard <R> date Of Retirement <T> 1974-08-01 <H> Alan Shepard <R> birth Date <T> 1923-11-18
+<H> Alan Shepard <R> status <T> Deceased <H> Alan Shepard <R> death Place <T> California <H> Alan Shepard <R> occupation <T> Test pilot <H> Alan Shepard <R> birth Place <T> New Hampshire
+<H> Alan Shepard <R> was a crew member of <T> Apollo 14 <H> Alan Shepard <R> occupation <T> Test pilot <H> Alan Shepard <R> birth Place <T> New Hampshire <H> Apollo 14 <R> operator <T> NASA
+<H> Apollo 12 <R> backup pilot <T> Alfred Worden <H> Alan Bean <R> was a crew member of <T> Apollo 12 <H> Apollo 12 <R> operator <T> NASA <H> Apollo 12 <R> commander <T> David Scott
+<H> Buzz Aldrin <R> birth Place <T> Glen Ridge New Jersey <H> Buzz Aldrin <R> nationality <T> United States <H> United States <R> leader Name <T> Joe Biden <H> Glen Ridge New Jersey <R> is Part Of <T> Essex County New Jersey
+<H> Elliot See <R> alma Mater <T> University of Texas at Austin <H> Elliot See <R> death Place <T> St. Louis <H> Elliot See <R> birth Date <T> 1927-07-23 <H> Elliot See <R> birth Place <T> Dallas
+<H> Elliot See <R> alma Mater <T> University of Texas at Austin <H> Elliot See <R> death Place <T> St. Louis <H> Elliot See <R> death Date <T> 1966-02-28 <H> Elliot See <R> occupation <T> Test pilot
+<H> Elliot See <R> alma Mater <T> University of Texas at Austin <H> University of Texas at Austin <R> affiliations <T> University of Texas System <H> Elliot See <R> death Place <T> St. Louis <H> St. Louis <R> is Part Of <T> Kingdom of France
+<H> Elliot See <R> death Place <T> St. Louis <H> Elliot See <R> birth Date <T> 1927-07-23 <H> Elliot See <R> birth Place <T> Dallas <H> Elliot See <R> death Date <T> 1966-02-28
+<H> William Anders <R> date Of Retirement <T> 1969-09-01 <H> Apollo 8 <R> commander <T> Frank Borman <H> William Anders <R> was a crew member of <T> Apollo 8 <H> Apollo 8 <R> backup pilot <T> Buzz Aldrin
+<H> 11 Diagonal Street <R> location <T> South Africa <H> South Africa <R> capital <T> Cape Town <H> South Africa <R> leader Name <T> Cyril Ramaphosa <H> South Africa <R> ethnic Group <T> Asian South Africans
+<H> 11 Diagonal Street <R> location <T> South Africa <H> South Africa <R> ethnic Group <T> Asian South Africans <H> South Africa <R> capital <T> Cape Town <H> South Africa <R> ethnic Group <T> White South African
+<H> 200 Public Square <R> location <T> Cleveland <H> Cleveland <R> is Part Of <T> Cuyahoga County Ohio <H> Cleveland <R> is Part Of <T> Ohio <H> Cleveland <R> governing Body <T> Cleveland City Council
+<H> 250 Delaware Avenue <R> architectural Style <T> Postmodern architecture <H> 250 Delaware Avenue <R> building Start Date <T> January 2014 <H> 250 Delaware Avenue <R> floor Area <T> 30843.8 square metres <H> 250 Delaware Avenue <R> floor Count <T> 12
+<H> 300 North LaSalle <R> location <T> Chicago <H> Chicago <R> is Part Of <T> DuPage County Illinois <H> Chicago <R> country <T> United States <H> Chicago <R> leader Name <T> Susana Mendoza
+<H> 3Arena <R> owner <T> Live Nation Entertainment <H> Dublin <R> leader Name <T> Criona Ni Dhalaigh <H> Dublin <R> country <T> Republic of Ireland <H> 3Arena <R> location <T> Dublin
+<H> 3Arena <R> owner <T> Live Nation Entertainment <H> Dublin <R> leader Name <T> Criona Ni Dhalaigh <H> Dublin <R> is Part Of <T> Republic of Ireland <H> 3Arena <R> location <T> Dublin
+<H> AC Hotel Bella Sky Copenhagen <R> location <T> Denmark <H> AC Hotel Bella Sky Copenhagen <R> tenant <T> Marriott International <H> AC Hotel Bella Sky Copenhagen <R> owner <T> Bella Center <H> AC Hotel Bella Sky Copenhagen <R> floor Count <T> 23
+<H> AC Hotel Bella Sky Copenhagen <R> owner <T> Bella Center <H> AC Hotel Bella Sky Copenhagen <R> tenant <T> Marriott International <H> AC Hotel Bella Sky Copenhagen <R> architect <T> 3XN <H> AC Hotel Bella Sky Copenhagen <R> floor Count <T> 23
+<H> Adisham Hall <R> architectural Style <T> Tudor and Jacabian <H> Adisham Hall <R> location <T> Sri Lanka <H> Adisham Hall <R> completion Date <T> 1931 <H> Adisham Hall <R> building Start Date <T> 1927
+<H> Adisham Hall <R> country <T> Sri Lanka <H> Adisham Hall <R> location <T> Haputale Sri Lanka <H> Sri Lanka <R> capital <T> Sri Jayawardenepura Kotte <H> Sri Lanka <R> language <T> Tamil language
+<H> Adisham Hall <R> location <T> Sri Lanka <H> Adisham Hall <R> architectural Style <T> Tudor Revival architecture <H> Adisham Hall <R> completion Date <T> 1931 <H> Adisham Hall <R> building Start Date <T> 1927
+<H> Akita Museum of Art <R> location <T> Akita Akita <H> Akita Akita <R> is Part Of <T> Akita Prefecture <H> Japan <R> ethnic Group <T> Filipinos in Japan <H> Akita Prefecture <R> country <T> Japan
+<H> Alan B. Miller Hall <R> location <T> Virginia <H> Alan B. Miller Hall <R> architect <T> Robert A. M. Stern <H> Mason School of Business <R> country <T> United States <H> Alan B. Miller Hall <R> current Tenants <T> Mason School of Business
+<H> Alan B. Miller Hall <R> location <T> Virginia <H> Alan B. Miller Hall <R> completion Date <T> 1 June 2009 <H> Mason School of Business <R> country <T> United States <H> Alan B. Miller Hall <R> current Tenants <T> Mason School of Business
+<H> Amdavad ni Gufa <R> location <T> Ahmedabad <H> Amdavad ni Gufa <R> country <T> India <H> India <R> leader Name <T> Narendra Modi <H> India <R> leader Name <T> Sumitra Mahajan
+<H> Amdavad ni Gufa <R> location <T> Gujarat <H> Amdavad ni Gufa <R> address <T> Lalbhai Dalpatbhai Campus near CEPT University opp. Gujarat University University Road <H> Amdavad ni Gufa <R> country <T> India <H> Amdavad ni Gufa <R> location <T> Ahmedabad
+<H> Amdavad ni Gufa <R> location <T> Gujarat <H> India <R> leader Name <T> T. S. Thakur <H> Amdavad ni Gufa <R> location <T> Ahmedabad <H> Amdavad ni Gufa <R> country <T> India
+<H> Ampara Hospital <R> country <T> Sri Lanka <H> Sri Lanka <R> leader Name <T> Ranil Wickremesinghe <H> Sri Lanka <R> currency <T> Sri Lankan rupee <H> Ampara Hospital <R> state <T> Eastern Province Sri Lanka
+<H> Asilomar Conference Grounds <R> architect <T> Julia Morgan <H> Julia Morgan <R> birth Place <T> San Francisco <H> Julia Morgan <R> significant Building <T> Los Angeles Herald-Examiner <H> Julia Morgan <R> significant Building <T> Asilomar State Beach
+<H> Asilomar Conference Grounds <R> architect <T> Julia Morgan <H> Julia Morgan <R> significant Building <T> Los Angeles Herald-Examiner <H> Julia Morgan <R> significant Building <T> Riverside Art Museum <H> Julia Morgan <R> birth Place <T> California
+<H> Asser Levy Public Baths <R> location <T> New York City <H> New York City <R> country <T> United States <H> New York City <R> is Part Of <T> Manhattan <H> New York City <R> is Part Of <T> New Netherland
+<H> Birmingham <R> postal Code <T> B postcode area <H> 103 Colmore Row <R> architect <T> John Madin <H> John Madin <R> hometown <T> Birmingham <H> Birmingham <R> leader Name <T> John Clancy Labour politician
+<H> Ethiopia <R> leader Name <T> Mulatu Teshome <H> Addis Ababa <R> is Part Of <T> Addis Ababa Stadium <H> Addis Ababa City Hall <R> country <T> Ethiopia <H> Addis Ababa City Hall <R> location <T> Addis Ababa
+<H> United States <R> capital <T> Washington D.C. <H> United States <R> leader Title <T> President of the United States <H> United States <R> leader Name <T> Paul Ryan <H> 250 Delaware Avenue <R> location <T> United States
+<H> Bananaman <R> starring <T> Tim Brooke-Taylor <H> Bananaman <R> creator <T> Steve Bright <H> Bananaman <R> first Aired <T> 1983-10-03 <H> Bananaman <R> broadcasted By <T> STV
+<H> Bolt comicsCharacter <R> creator <T> Ernie Colon <H> Ernie Colon <R> nationality <T> Puerto Ricans <H> Bolt comicsCharacter <R> alternative Name <T> Larry Bolatinsky <H> Bolt comicsCharacter <R> creator <T> Dan Mishkin
+<H> Duncan Rouleau <R> nationality <T> Americans <H> Baymax <R> creator <T> Duncan Rouleau <H> Baymax <R> series <T> Big Hero 6 film <H> Big Hero 6 film <R> starring <T> Damon Wayans Jr.
+<H> Duncan Rouleau <R> nationality <T> Americans <H> Baymax <R> creator <T> Duncan Rouleau <H> Baymax <R> series <T> Big Hero 6 film <H> Big Hero 6 film <R> starring <T> Jamie Chung
+<H> Duncan Rouleau <R> nationality <T> Americans <H> Baymax <R> creator <T> Duncan Rouleau <H> Baymax <R> series <T> Big Hero 6 film <H> Big Hero 6 film <R> starring <T> Maya Rudolph
+<H> Ajoblanco <R> country <T> Spain <H> Ajoblanco <R> main Ingredients <T> Bread almonds garlic water olive oil <H> Ajoblanco <R> region <T> Andalusia <H> Ajoblanco <R> ingredient <T> Bread
+<H> Ajoblanco <R> country <T> Spain <H> Ajoblanco <R> region <T> Andalusia <H> Ajoblanco <R> alternative Name <T> Ajo blanco <H> Ajoblanco <R> ingredient <T> Water
+<H> Arem-arem <R> dish Variation <T> Lemper <H> Arem-arem <R> ingredient <T> Banana leaf <H> Arem-arem <R> main Ingredients <T> compressed rice cooked in banana leaf with vegetables or minced meat fillings <H> Arem-arem <R> region <T> Javanese cuisine
+<H> Arem-arem <R> ingredient <T> Banana leaf <H> Arem-arem <R> course <T> Main course <H> Arem-arem <R> main Ingredients <T> compressed rice cooked in banana leaf with vegetables or minced meat fillings <H> Arem-arem <R> region <T> Nationwide in Indonesia but more specific to Java
+<H> Arrabbiata sauce <R> ingredient <T> Chili pepper <H> Arrabbiata sauce <R> main Ingredients <T> Tomatoes red chili garlic olive oil <H> Arrabbiata sauce <R> country <T> Italy <H> Arrabbiata sauce <R> region <T> Rome
+<H> Arros negre <R> country <T> Spain <H> Arros negre <R> main Ingredients <T> White rice cuttlefish or squid cephalopod ink cubanelle peppers <H> Arros negre <R> region <T> Catalonia <H> Arros negre <R> ingredient <T> Cephalopod ink
+<H> Arros negre <R> country <T> Spain <H> Arros negre <R> main Ingredients <T> White rice cuttlefish or squid cephalopod ink cubanelle peppers <H> Arros negre <R> region <T> Catalonia <H> Arros negre <R> ingredient <T> Cubanelle
+<H> Arros negre <R> region <T> Valencian Community <H> Arros negre <R> country <T> Spain <H> Arros negre <R> main Ingredients <T> White rice cuttlefish or squid cephalopod ink cubanelle peppers <H> Arros negre <R> ingredient <T> Cubanelle
+<H> Asam pedas <R> country <T> Malaysia <H> Asam pedas <R> region <T> Sumatra and Malay Peninsula <H> Asam pedas <R> main Ingredients <T> Fish cooked in sour and hot sauce <H> Asam pedas <R> alternative Name <T> Asam padeh
+<H> Asam pedas <R> country <T> Malaysia <H> Malaysia <R> ethnic Group <T> Malaysian Malay <H> Sumatra <R> ethnic Group <T> Minangkabau people <H> Asam pedas <R> region <T> Sumatra
+<H> Bacon Explosion <R> country <T> United States <H> Bacon Explosion <R> ingredient <T> Sausage <H> Bacon Explosion <R> region <T> Kansas City metropolitan area <H> Bacon Explosion <R> main Ingredients <T> Bacon
+<H> Bacon Explosion <R> country <T> United States <H> United States <R> leader Name <T> Paul Ryan <H> United States <R> ethnic Group <T> Asian Americans <H> United States <R> capital <T> Washington D.C.
+<H> Bacon sandwich <R> dish Variation <T> BLT <H> Bacon sandwich <R> country <T> United Kingdom <H> Bacon sandwich <R> alternative Name <T> Bacon butty bacon sarnie rasher sandwich bacon sanger piece 'n bacon bacon cob bacon barm bacon muffin <H> Bacon sandwich <R> ingredient <T> Bacon
+<H> Bacon sandwich <R> dish Variation <T> BLT <H> Bacon sandwich <R> country <T> United Kingdom <H> Bacon sandwich <R> alternative Name <T> Bacon butty bacon sarnie rasher sandwich bacon sanger piece 'n bacon bacon cob bacon barm bacon muffin <H> Bacon sandwich <R> ingredient <T> Brown sauce
+<H> Bacon sandwich <R> main Ingredients <T> Bread and bacon with a condiment often ketchup or brown sauce <H> Bacon sandwich <R> country <T> United Kingdom <H> Bacon sandwich <R> ingredient <T> Ketchup <H> Bacon sandwich <R> alternative Name <T> Bacon butty bacon sarnie rasher sandwich bacon sanger piece 'n bacon bacon cob bacon barm bacon muffin
+<H> Baked Alaska <R> main Ingredients <T> Meringue ice cream sponge cake or Christmas pudding <H> Baked Alaska <R> country <T> France United States or China <H> Baked Alaska <R> region <T> Paris New York or Hong Kong <H> Baked Alaska <R> ingredient <T> Meringue
+<H> Baked Alaska <R> main Ingredients <T> Meringue ice cream sponge cake or Christmas pudding <H> Baked Alaska <R> region <T> Paris New York or Hong Kong <H> Baked Alaska <R> country <T> United States <H> Baked Alaska <R> ingredient <T> Ice cream
+<H> Bakewell pudding <R> dish Variation <T> Bakewell tart <H> Bakewell tart <R> region <T> Derbyshire Dales <H> Derbyshire Dales <R> is Part Of <T> Derbyshire <H> Bakewell tart <R> ingredient <T> Frangipane
+<H> Bakewell pudding <R> region <T> Derbyshire Dales <H> Bakewell pudding <R> dish Variation <T> Bakewell tart <H> Bakewell pudding <R> course <T> Dessert <H> Bakewell pudding <R> main Ingredients <T> Ground almond jam butter eggs
+<H> Bakewell pudding <R> region <T> Derbyshire Dales <H> Bakewell pudding <R> dish Variation <T> Bakewell tart <H> Derbyshire Dales <R> is Part Of <T> Derbyshire <H> Bakewell tart <R> ingredient <T> Shortcrust pastry
+<H> Bandeja paisa <R> ingredient <T> Rice <H> Bandeja paisa <R> main Ingredients <T> red beans pork belly white rice ground meat chicharon fried egg plantain patacones chorizo arepa hogao sauce black pudding morcilla avocado and lemon <H> Bandeja paisa <R> region <T> Paisa Region <H> Bandeja paisa <R> country <T> Colombian cuisine
+<H> Batagor <R> country <T> Indonesia <H> Batagor <R> ingredient <T> Peanut sauce <H> Batagor <R> dish Variation <T> Siomay <H> Batagor <R> main Ingredients <T> fried fish dumpling with tofu and vegetables in peanut sauce
+<H> Batagor <R> country <T> Indonesia <H> Shumai <R> dish Variation <T> Siomay <H> Shumai <R> ingredient <T> Shiitake <H> Batagor <R> dish Variation <T> Shumai
+<H> Beef kway teow <R> country <T> Singapore <H> Beef kway teow <R> region <T> Indonesia <H> Singapore <R> language <T> Standard Chinese <H> Singapore <R> leader Name <T> Halimah Yacob
+<H> Beef kway teow <R> main Ingredients <T> Kway teow beef tender loin gula Melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and sesame oil <H> Beef kway teow <R> ingredient <T> Oyster sauce <H> Beef kway teow <R> region <T> Indonesia <H> Beef kway teow <R> country <T> Singapore and Indonesia
+<H> Beef kway teow <R> region <T> Singapore <H> Beef kway teow <R> main Ingredients <T> Kway teow beef tender loin gula Melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and sesame oil <H> Beef kway teow <R> country <T> Indonesia <H> Beef kway teow <R> ingredient <T> Oyster sauce
+<H> Beef kway teow <R> region <T> Singapore <H> Singapore <R> language <T> English language <H> Beef kway teow <R> country <T> Singapore and Indonesia <H> Singapore <R> leader Name <T> Tony Tan
+<H> Bhajji <R> country <T> India <H> India <R> currency <T> Indian rupee <H> India <R> leader Name <T> T. S. Thakur <H> India <R> leader Name <T> Narendra Modi
+<H> Bhajji <R> country <T> India <H> India <R> demonym <T> Indian people <H> India <R> leader Name <T> T. S. Thakur <H> India <R> leader Name <T> Sumitra Mahajan
+<H> Bhajji <R> country <T> India <H> India <R> leader Name <T> Narendra Modi <H> India <R> leader Name <T> Sumitra Mahajan <H> Bhajji <R> region <T> Karnataka
+<H> Bhajji <R> country <T> India <H> India <R> leader Name <T> T. S. Thakur <H> Bhajji <R> region <T> Karnataka <H> Karnataka <R> leader Name <T> Vajubhai Vala
+<H> Binignit <R> ingredient <T> Sweet potato <H> Binignit <R> course <T> Dessert <H> Dessert <R> dish Variation <T> Cookie <H> Sweet potato <R> order <T> Solanales
+<H> Bionico <R> country <T> Mexico <H> Bionico <R> main Ingredients <T> Chopped Fruits Sour Cream Condensed Milk Granola Shredded Coconut Raisins <H> Bionico <R> region <T> Guadalajara <H> Bionico <R> ingredient <T> Condensed milk
+<H> Bionico <R> country <T> Mexico <H> Bionico <R> main Ingredients <T> Chopped Fruits Sour Cream Condensed Milk Granola Shredded Coconut Raisins <H> Bionico <R> region <T> Jalisco <H> Bionico <R> ingredient <T> Sour cream
+<H> Indonesia <R> capital <T> Jakarta <H> Indonesia <R> leader Name <T> Jusuf Kalla <H> Bakso <R> region <T> Indonesia <H> Bakso <R> country <T> Chinese cuisine
+<H> Indonesia <R> leader Name <T> Jusuf Kalla <H> Bakso <R> region <T> Indonesia <H> Bakso <R> country <T> Indonesia <H> Bakso <R> ingredient <T> Celery
+<H> Italy <R> capital <T> Rome <H> Italy <R> leader Name <T> Matteo Renzi <H> Amatriciana sauce <R> country <T> Italy <H> Italy <R> leader Name <T> Sergio Mattarella
+<H> Java <R> ethnic Group <T> Baduy <H> Singapore <R> leader Name <T> Halimah Yacob <H> Ayam penyet <R> region <T> Singapore <H> Ayam penyet <R> country <T> Java
+<H> Java <R> ethnic Group <T> Banyumasan people <H> Ayam penyet <R> region <T> Singapore <H> Singapore <R> leader Name <T> Tony Tan <H> Ayam penyet <R> country <T> Java
+<H> Philippines <R> ethnic Group <T> Ilocano people <H> Philippines <R> language <T> Philippine Spanish <H> Batchoy <R> country <T> Philippines <H> Philippines <R> ethnic Group <T> Moro people
+<H> Spain <R> currency <T> Euro <H> Arros negre <R> country <T> Spain <H> Spain <R> ethnic Group <T> Spaniards <H> Spain <R> leader Name <T> Felipe VI of Spain
+<H> Adams County Pennsylvania <R> has to its southeast <T> Carroll County Maryland <H> Adams County Pennsylvania <R> has to its north <T> Cumberland County Pennsylvania <H> 11th Mississippi Infantry Monument <R> municipality <T> Gettysburg Pennsylvania <H> 11th Mississippi Infantry Monument <R> location <T> Adams County Pennsylvania
+<H> Adams County Pennsylvania <R> has to its west <T> Franklin County Pennsylvania <H> Adams County Pennsylvania <R> has to its southeast <T> Carroll County Maryland <H> 11th Mississippi Infantry Monument <R> category <T> Contributing property <H> 11th Mississippi Infantry Monument <R> location <T> Adams County Pennsylvania
+<H> Azerbaijan <R> capital <T> Baku <H> Baku Turkish Martyrs' Memorial <R> dedicated To <T> Ottoman Army soldiers killed in the Battle of Baku <H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan <H> Baku Turkish Martyrs' Memorial <R> designer <T> Huseyin Butuner and Hilmi Guner
+<H> Azerbaijan <R> leader <T> Artur Rasizade <H> Azerbaijan <R> capital <T> Baku <H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan <H> Azerbaijan <R> legislature <T> National Assembly Azerbaijan
+<H> Azerbaijan <R> leader <T> Artur Rasizade <H> Baku Turkish Martyrs' Memorial <R> material <T> Red granite and white marble <H> Baku Turkish Martyrs' Memorial <R> dedicated To <T> Ottoman Army soldiers killed in the Battle of Baku <H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan
+<H> Azerbaijan <R> leader Title <T> Prime Minister of Azerbaijan <H> Baku Turkish Martyrs' Memorial <R> dedicated To <T> Ottoman Army soldiers killed in the Battle of Baku <H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan <H> Azerbaijan <R> leader Name <T> Artur Rasizade
+<H> A.C. Chievo Verona <R> fullname <T> Associazione Calcio ChievoVerona S.r.l. <H> A.C. Chievo Verona <R> ground <T> Verona Italy <H> A.C. Chievo Verona <R> season <T> 2014-15 Serie A <H> A.C. Chievo Verona <R> number Of Members <T> 39371
+<H> A.C. Chievo Verona <R> manager <T> Rolando Maran <H> Rolando Maran <R> place Of Birth <T> Italy <H> Rolando Maran <R> club <T> Unione Triestina 2012 S.S.D. <H> Rolando Maran <R> club <T> Carrarese Calcio
+<H> A.C. Lumezzane <R> manager <T> Michele Marcolini <H> Michele Marcolini <R> place Of Birth <T> Italy <H> Michele Marcolini <R> club <T> Torino F.C. <H> Michele Marcolini <R> club <T> F.C. Bari 1908
+<H> A.E Dimitra Efxeinoupolis <R> location <T> Greece <H> Greece <R> leader <T> Alexis Tsipras <H> Greece <R> leader <T> Nikos Voutsis <H> Greece <R> language <T> Greek language
+<H> A.S. Gubbio 1910 <R> fullname <T> Associazione Sportiva Gubbio 1910 Srl <H> A.S. Gubbio 1910 <R> season <T> 2014 <H> A.S. Gubbio 1910 <R> ground <T> Italy <H> A.S. Gubbio 1910 <R> number Of Members <T> 5300
+<H> A.S. Gubbio 1910 <R> fullname <T> Associazione Sportiva Gubbio 1910 Srl <H> A.S. Gubbio 1910 <R> season <T> 2014 <H> A.S. Gubbio 1910 <R> ground <T> Stadio Pietro Barbetti <H> A.S. Gubbio 1910 <R> number Of Members <T> 5300
+<H> A.S. Livorno Calcio <R> ground <T> Stadio Armando Picchi <H> A.S. Livorno Calcio <R> number Of Members <T> 19238 <H> A.S. Livorno Calcio <R> season <T> 2014-15 Serie B <H> A.S. Livorno Calcio <R> fullname <T> Livorno Calcio S.p.A.
+<H> A.S. Roma <R> number Of Members <T> 70634 <H> A.S. Roma <R> fullname <T> Associazione Sportiva Roma S.p.A. <H> A.S. Roma <R> ground <T> Rome <H> A.S. Roma <R> season <T> 2014-15 Serie A
+<H> AZAL PFK <R> league <T> Azerbaijan Premier League <H> Azerbaijan Premier League <R> champions <T> Qarabag FK <H> AZAL PFK <R> ground <T> AZAL Arena <H> AZAL Arena <R> location <T> Azerbaijan
+<H> AZAL PFK <R> league <T> Azerbaijan Premier League <H> Azerbaijan Premier League <R> champions <T> Qarabag FK <H> AZAL PFK <R> number Of Members <T> 3500 <H> AZAL PFK <R> ground <T> AZAL Arena
+<H> AZ Alkmaar <R> manager <T> John van den Brom <H> John van den Brom <R> club <T> AFC Ajax <H> John van den Brom <R> club <T> Istanbulspor A.S. <H> AZ Alkmaar <R> owner <T> Robert Eenhoorn
+<H> Agremiacao Sportiva Arapiraquense <R> league <T> Campeonato Brasileiro Serie C <H> Campeonato Brasileiro Serie C <R> country <T> Brazil <H> Agremiacao Sportiva Arapiraquense <R> nickname <T> Asa Gigante '' <H> Campeonato Brasileiro Serie C <R> champions <T> Vila Nova Futebol Clube
+<H> Agremiacao Sportiva Arapiraquense <R> league <T> Campeonato Brasileiro Serie C <H> Campeonato Brasileiro Serie C <R> country <T> Brazil <H> Agremiacao Sportiva Arapiraquense <R> season <T> 2015 Campeonato Brasileiro Serie C <H> Campeonato Brasileiro Serie C <R> champions <T> Vila Nova Futebol Clube
+<H> Akron Summit Assault <R> fullname <T> Akron Metro Futbol Club Summit Assault <H> Akron Summit Assault <R> number Of Members <T> 3000 <H> Akron Summit Assault <R> manager <T> Denzil Antonio <H> Akron Summit Assault <R> season <T> 2011 PDL season
+<H> Akron Summit Assault <R> ground <T> Akron Ohio <H> Akron Ohio <R> country <T> United States <H> Akron Summit Assault <R> league <T> Premier Development League <H> Premier Development League <R> champions <T> K-W United FC
+<H> Italy <R> capital <T> Rome <H> Italy <R> leader <T> Sergio Mattarella <H> A.S. Gubbio 1910 <R> ground <T> Italy <H> Italy <R> language <T> Italian language
+<H> Italy <R> leader <T> Pietro Grasso <H> Italy <R> official Language <T> Italian language <H> Italy <R> capital <T> Rome <H> A.S. Gubbio 1910 <R> ground <T> Italy
+<H> Serie A <R> champions <T> Juventus F.C. <H> A.S. Roma <R> fullname <T> Associazione Sportiva Roma S.p.A. <H> A.S. Roma <R> ground <T> Stadio Olimpico <H> A.S. Roma <R> league <T> Serie A
+<H> Accademia di Architettura di Mendrisio <R> country <T> Switzerland <H> Accademia di Architettura di Mendrisio <R> dean <T> Mario Botta <H> Accademia di Architettura di Mendrisio <R> city <T> Mendrisio <H> Accademia di Architettura di Mendrisio <R> academic Staff Size <T> 100
+<H> Accademia di Architettura di Mendrisio <R> country <T> Switzerland <H> Accademia di Architettura di Mendrisio <R> established <T> 1996 <H> Accademia di Architettura di Mendrisio <R> number Of Students <T> 600 <H> Switzerland <R> leader Title <T> Federal Chancellor of Switzerland
+<H> Accademia di Architettura di Mendrisio <R> dean <T> Mario Botta <H> Accademia di Architettura di Mendrisio <R> city <T> Mendrisio <H> Accademia di Architettura di Mendrisio <R> established <T> 1996 <H> Accademia di Architettura di Mendrisio <R> academic Staff Size <T> 100
+<H> Acharya Institute of Technology <R> affiliation <T> Visvesvaraya Technological University <H> Acharya Institute of Technology <R> was given the 'Technical Campus' status by <T> All India Council for Technical Education <H> All India Council for Technical Education <R> location <T> Mumbai <H> Visvesvaraya Technological University <R> city <T> Belgaum
+<H> Acharya Institute of Technology <R> city <T> Bangalore <H> Acharya Institute of Technology <R> country <T> India <H> Acharya Institute of Technology <R> number Of Postgraduate Students <T> 700 <H> Acharya Institute of Technology <R> campus <T> In Soldevanahalli Acharya Dr. Sarvapalli Radhakrishnan Road Hessarghatta Main Road Bangalore - 560090.
+<H> Acharya Institute of Technology <R> director <T> Dr. G. P. Prabhukumar <H> Acharya Institute of Technology <R> established <T> 2000 <H> Acharya Institute of Technology <R> country <T> India <H> Acharya Institute of Technology <R> affiliation <T> Visvesvaraya Technological University
+<H> Romania <R> ethnic Group <T> Germans of Romania <H> Romania <R> leader Name <T> Klaus Iohannis <H> Romania <R> capital <T> Bucharest <H> 1 Decembrie 1918 University <R> country <T> Romania
+<H> School of Business and Social Sciences at the Aarhus University <R> academic Staff Size <T> 737 <H> School of Business and Social Sciences at the Aarhus University <R> country <T> Denmark <H> School of Business and Social Sciences at the Aarhus University <R> affiliation <T> European University Association <H> School of Business and Social Sciences at the Aarhus University <R> established <T> 1928
+<H> School of Business and Social Sciences at the Aarhus University <R> academic Staff Size <T> 737 <H> School of Business and Social Sciences at the Aarhus University <R> number Of Students <T> 16000 <H> School of Business and Social Sciences at the Aarhus University <R> country <T> Denmark <H> School of Business and Social Sciences at the Aarhus University <R> established <T> 1928
+<H> 1634: The Bavarian Crisis <R> preceded By <T> 1634: The Baltic War <H> 1634: The Baltic War <R> author <T> David Weber <H> 1634: The Bavarian Crisis <R> followed By <T> Ring of Fire II <H> Ring of Fire II <R> language <T> English language
+<H> 1634: The Ram Rebellion <R> media Type <T> E-book <H> 1634: The Ram Rebellion <R> number Of Pages <T> 512 <H> 1634: The Ram Rebellion <R> author <T> Virginia DeMarce <H> 1634: The Ram Rebellion <R> ISBN number <T> 1-4165-2060-0
+<H> AIDS journal <R> country <T> United Kingdom <H> United Kingdom <R> capital <T> London <H> AIDS journal <R> publisher <T> Lippincott Williams & Wilkins <H> United Kingdom <R> leader Name <T> Elizabeth II
+<H> A Fortress of Grey Ice <R> author <T> J. V. Jones <H> A Fortress of Grey Ice <R> media Type <T> Print <H> A Fortress of Grey Ice <R> OCLC number <T> 51969173 <H> A Fortress of Grey Ice <R> ISBN number <T> 0-7653-0633-6
+<H> A Long Long Way <R> preceded By <T> Annie Dunne <H> A Long Long Way <R> country <T> Ireland <H> A Long Long Way <R> publisher <T> Viking Press <H> A Long Long Way <R> followed By <T> The Secret Scripture
+<H> A Severed Wasp <R> OCLC number <T> 8805735 <H> A Severed Wasp <R> Libraryof Congress Classification <T> PS3523.E55 S4 1982 <H> A Severed Wasp <R> media Type <T> Print <H> A Severed Wasp <R> ISBN number <T> 0-374-26131-8
+<H> A Severed Wasp <R> language <T> English language <H> English language <R> spoken In <T> Great Britain <H> A Severed Wasp <R> country <T> United States <H> United States <R> ethnic Group <T> African Americans
+<H> A Severed Wasp <R> number Of Pages <T> 388 <H> A Severed Wasp <R> OCLC number <T> 8805735 <H> A Severed Wasp <R> ISBN number <T> 0-374-26131-8 <H> A Severed Wasp <R> media Type <T> Hardcover
+<H> A Wizard of Mars <R> media Type <T> Hardcover <H> A Wizard of Mars <R> author <T> Diane Duane <H> A Wizard of Mars <R> OCLC number <T> 318875313 <H> A Wizard of Mars <R> ISBN number <T> 978-0-15-204770-2
+<H> Addiction journal <R> academic Discipline <T> Addiction <H> Addiction journal <R> LCCN number <T> 93645978 <H> Addiction journal <R> abbreviation <T> Addiction <H> Addiction journal <R> ISSN number <T> 1360-0443
+<H> Administrative Science Quarterly <R> publisher <T> Cornell University <H> Cornell University <R> affiliation <T> Association of American Universities <H> Cornell University <R> state <T> New York <H> Cornell University <R> city <T> Ithaca New York
+<H> Alcatraz Versus the Evil Librarians <R> language <T> English language <H> United States <R> capital <T> Washington D.C. <H> Alcatraz Versus the Evil Librarians <R> country <T> United States <H> United States <R> ethnic Group <T> African Americans
+<H> American Journal of Mathematics <R> abbreviation <T> Am. J. Math. <H> American Journal of Mathematics <R> academic Discipline <T> Mathematics <H> American Journal of Mathematics <R> frequency <T> Bimonthly <H> American Journal of Mathematics <R> ISSN number <T> 1080-6377
+<H> American Journal of Mathematics <R> academic Discipline <T> Mathematics <H> American Journal of Mathematics <R> first Publication Year <T> 1878 <H> American Journal of Mathematics <R> abbreviation <T> Am. J. Math. <H> American Journal of Mathematics <R> ISSN number <T> 1080-6377
+<H> English language <R> spoken In <T> Great Britain <H> A Loyal Character Dancer <R> publisher <T> Soho Press <H> Soho Press <R> country <T> United States <H> United States <R> language <T> English language
+<H> English language <R> spoken In <T> Great Britain <H> United States <R> ethnic Group <T> Asian Americans <H> United States <R> language <T> English language <H> A Severed Wasp <R> country <T> United States
+<H> English language <R> spoken In <T> Great Britain <H> United States <R> language <T> English language <H> Alcatraz Versus the Evil Librarians <R> country <T> United States <H> United States <R> ethnic Group <T> Native Americans in the United States
+<H> United Kingdom <R> leader Name <T> David Cameron <H> AIDS journal <R> country <T> United Kingdom <H> AIDS journal <R> publisher <T> Lippincott Williams & Wilkins <H> United Kingdom <R> leader Name <T> Elizabeth II
+<H> United States <R> ethnic Group <T> African Americans <H> United States <R> language <T> English language <H> English language <R> spoken In <T> Great Britain <H> A Fortress of Grey Ice <R> country <T> United States
+<H> United States <R> ethnic Group <T> Asian Americans <H> United States <R> language <T> English language <H> English language <R> spoken In <T> Great Britain <H> A Fortress of Grey Ice <R> country <T> United States
+<H> United States <R> leader Name <T> Barack Obama <H> United States <R> language <T> English language <H> A Severed Wasp <R> country <T> United States <H> United States <R> ethnic Group <T> African Americans
+<H> Abilene Regional Airport <R> city Served <T> Abilene Texas <H> Abilene Texas <R> is Part Of <T> Texas <H> Abilene Regional Airport <R> runway Length <T> 2194.0 <H> Abilene Texas <R> country <T> United States <H> Abilene Texas <R> is Part Of <T> Jones County Texas
+<H> Abilene Regional Airport <R> city Served <T> Abilene Texas <H> Abilene Regional Airport <R> runway Length <T> 2194.0 <H> Abilene Regional Airport <R> elevation Above The Sea Level in metres <T> 546 <H> Abilene Regional Airport <R> ICAO Location Identifier <T> KABI <H> Abilene Regional Airport <R> runway Name <T> 17L/35R
+<H> Abilene Regional Airport <R> city Served <T> Abilene Texas <H> Abilene Regional Airport <R> runway Length <T> 2194.0 <H> Abilene Regional Airport <R> elevation Above The Sea Level in metres <T> 546 <H> Abilene Regional Airport <R> ICAO Location Identifier <T> KABI <H> Abilene Regional Airport <R> runway Name <T> 17R/35L
+<H> Adolfo Suarez Madrid-Barajas Airport <R> runway Length <T> 4349.0 <H> Adolfo Suarez Madrid-Barajas Airport <R> location <T> Madrid <H> Adolfo Suarez Madrid-Barajas Airport <R> elevation Above The Sea Level in metres <T> 610.0 <H> Adolfo Suarez Madrid-Barajas Airport <R> operating Organisation <T> ENAIRE <H> Adolfo Suarez Madrid-Barajas Airport <R> runway Name <T> 14L/32R
+<H> Agra Airport <R> ICAO Location Identifier <T> VIAG <H> Agra Airport <R> location <T> Uttar Pradesh <H> Uttar Pradesh <R> is Part Of <T> Awadh <H> Uttar Pradesh <R> leader Name <T> Ram Naik <H> Uttar Pradesh <R> is Part Of <T> Bundelkhand
+<H> Agra Airport <R> native Name <T> Kheria Air Force Station <H> Agra Airport <R> location <T> Uttar Pradesh <H> Uttar Pradesh <R> is Part Of <T> Awadh <H> Uttar Pradesh <R> leader Name <T> Ram Naik <H> Uttar Pradesh <R> is Part Of <T> Bundelkhand
+<H> Al Asad Airbase <R> operating Organisation <T> United States Air Force <H> United States Air Force <R> attack Aircraft <T> Lockheed AC-130 <H> United States Air Force <R> transport Aircraft <T> Boeing C-17 Globemaster III <H> United States Air Force <R> aircraft Fighter <T> General Dynamics F-16 Fighting Falcon <H> United States Air Force <R> battles <T> United States invasion of Panama
+<H> Al Asad Airbase <R> operating Organisation <T> United States Air Force <H> United States Air Force <R> attack Aircraft <T> Lockheed AC-130 <H> United States Air Force <R> transport Aircraft <T> Boeing C-17 Globemaster III <H> United States Air Force <R> aircraft Fighter <T> McDonnell Douglas F-15 Eagle <H> United States Air Force <R> battles <T> Korean War
+<H> Al Asad Airbase <R> operating Organisation <T> United States Air Force <H> United States Air Force <R> battles <T> Invasion of Grenada <H> United States Air Force <R> attack Aircraft <T> Lockheed AC-130 <H> United States Air Force <R> battles <T> Korean War <H> United States Air Force <R> transport Aircraft <T> Lockheed C-130 Hercules
+<H> Al Asad Airbase <R> operating Organisation <T> United States Air Force <H> United States Air Force <R> battles <T> Invasion of Grenada <H> United States Air Force <R> attack Aircraft <T> Lockheed AC-130 <H> United States Air Force <R> transport Aircraft <T> Boeing C-17 Globemaster III <H> United States Air Force <R> battles <T> United States invasion of Panama
+<H> Allama Iqbal International Airport <R> operating Organisation <T> Pakistan Civil Aviation Authority <H> Lahore <R> country <T> Pakistan <H> Allama Iqbal International Airport <R> location <T> Punjab Pakistan <H> Allama Iqbal International Airport <R> city Served <T> Lahore <H> Pakistan <R> leader Name <T> Anwar Zaheer Jamali
+<H> Allama Iqbal International Airport <R> operating Organisation <T> Pakistan Civil Aviation Authority <H> Punjab Pakistan <R> leader Name <T> Shehbaz Sharif <H> Lahore <R> country <T> Pakistan <H> Allama Iqbal International Airport <R> location <T> Punjab Pakistan <H> Allama Iqbal International Airport <R> city Served <T> Lahore
+<H> Andrews County Airport <R> location <T> Texas <H> Andrews County Airport <R> runway Length <T> 896.0 <H> Andrews County Airport <R> city Served <T> Andrews Texas <H> Andrews County Airport <R> elevation Above The Sea Level in metres <T> 973.0 <H> Andrews County Airport <R> runway Name <T> 11/29
+<H> Andrews County Airport <R> location <T> Texas <H> Texas <R> language <T> Spanish language <H> Texas <R> largest City <T> Houston <H> Texas <R> capital <T> Austin Texas <H> Texas <R> country <T> United States
+<H> Andrews County Airport <R> location <T> Texas <H> Texas <R> language <T> Spanish language <H> Texas <R> largest City <T> Houston <H> Texas <R> capital <T> Austin Texas <H> Texas <R> demonym <T> Texan
+<H> Angola International Airport <R> location <T> Icolo e Bengo <H> Icolo e Bengo <R> country <T> Angola <H> Angola International Airport <R> city Served <T> Luanda <H> Icolo e Bengo <R> is Part Of <T> Luanda Province <H> Angola International Airport <R> elevation Above The Sea Level in metres <T> 159
+<H> Angola International Airport <R> location <T> Icolo e Bengo <H> Icolo e Bengo <R> country <T> Angola <H> Angola International Airport <R> runway Length <T> 4000.0 <H> Icolo e Bengo <R> is Part Of <T> Luanda Province <H> Angola International Airport <R> elevation Above The Sea Level in metres <T> 159
+<H> Antwerp International Airport <R> owner <T> Flemish Region <H> Antwerp International Airport <R> operating Organisation <T> Flemish department of Mobility and Public Works <H> Antwerp International Airport <R> city Served <T> Antwerp <H> Antwerp International Airport <R> elevation Above The Sea Level in metres <T> 12.0 <H> Antwerp International Airport <R> runway Length <T> 600.0
+<H> Appleton International Airport <R> location <T> Greenville Wisconsin <H> Appleton International Airport <R> runway Length <T> 2439.0 <H> Appleton International Airport <R> city Served <T> Appleton Wisconsin <H> Appleton International Airport <R> elevation Above The Sea Level in metres <T> 280 <H> Appleton International Airport <R> runway Name <T> 3/21
+<H> Appleton International Airport <R> location <T> Greenville Wisconsin <H> Greenville Wisconsin <R> is Part Of <T> Menasha town Wisconsin <H> Greenville Wisconsin <R> country <T> United States <H> Appleton International Airport <R> city Served <T> Appleton Wisconsin <H> Greenville Wisconsin <R> is Part Of <T> Clayton Winnebago County Wisconsin
+<H> Ardmore Airport New Zealand <R> runway Length <T> 1411.0 <H> Ardmore Airport New Zealand <R> 3rd runway Surface Type <T> Poaceae <H> Ardmore Airport New Zealand <R> operating Organisation <T> Civil Aviation Authority of New Zealand <H> Ardmore Airport New Zealand <R> elevation Above The Sea Level in metres <T> 34.0 <H> Ardmore Airport New Zealand <R> runway Name <T> 03R/21L
+<H> Ashgabat International Airport <R> operating Organisation <T> Turkmenistan Airlines <H> Ashgabat International Airport <R> location <T> Ashgabat <H> Ashgabat International Airport <R> runway Length <T> 2989.0 <H> Ashgabat International Airport <R> elevation Above The Sea Level in metres <T> 211 <H> Ashgabat International Airport <R> runway Name <T> 12R/30L
+<H> Atlantic City International Airport <R> runway Length <T> 1873.0 <H> Atlantic City International Airport <R> operating Organisation <T> Port Authority of New York and New Jersey <H> Atlantic City International Airport <R> elevation Above The Sea Level in metres <T> 23.0 <H> Atlantic City International Airport <R> ICAO Location Identifier <T> KACY <H> Atlantic City International Airport <R> runway Name <T> 4/22
+<H> Belgium <R> leader Name <T> Charles Michel <H> Antwerp International Airport <R> city Served <T> Antwerp <H> Flemish Region <R> leader Name <T> Flemish Government <H> Flemish Region <R> country <T> Belgium <H> Flemish Government <R> jurisdiction <T> Flemish Region
+<H> Saranac Lake New York <R> is Part Of <T> Harrietstown New York <H> Saranac Lake New York <R> is Part Of <T> Essex County New York <H> Adirondack Regional Airport <R> city Served <T> Lake Placid New York <H> Adirondack Regional Airport <R> city Served <T> Saranac Lake New York <H> Saranac Lake New York <R> country <T> United States
+<H> Alan Bean <R> was a crew member of <T> Apollo 12 <H> Alan Bean <R> nationality <T> United States <H> Apollo 12 <R> operator <T> NASA <H> Alan Bean <R> occupation <T> Test pilot <H> Alan Bean <R> birth Place <T> Wheeler Texas
+<H> Alan Shepard <R> alma Mater <T> NWC M.A. 1957 <H> Alan Shepard <R> death Place <T> California <H> Alan Shepard <R> birth Place <T> New Hampshire <H> Alan Shepard <R> death Date <T> 1998-07-21 <H> Alan Shepard <R> birth Date <T> 1923-11-18
+<H> Alan Shepard <R> status <T> Deceased <H> Alan Shepard <R> alma Mater <T> NWC M.A. 1957 <H> Alan Shepard <R> death Place <T> California <H> Alan Shepard <R> occupation <T> Test pilot <H> Alan Shepard <R> birth Place <T> New Hampshire
+<H> Alan Shepard <R> was a crew member of <T> Apollo 14 <H> Alan Shepard <R> status <T> Deceased <H> Alan Shepard <R> was selected by NASA <T> 1959 <H> Alan Shepard <R> birth Place <T> New Hampshire <H> Apollo 14 <R> operator <T> NASA
+<H> Apollo 12 <R> backup pilot <T> Alfred Worden <H> Alan Bean <R> was a crew member of <T> Apollo 12 <H> Apollo 12 <R> operator <T> NASA <H> Alan Bean <R> time In Space <T> 100305.0minutes <H> Apollo 12 <R> commander <T> David Scott
+<H> Distinguished Service Medal United States Navy <R> higher <T> Department of Commerce Gold Medal <H> Alan Shepard <R> death Place <T> California <H> Alan Shepard <R> birth Place <T> New Hampshire <H> Alan Shepard <R> birth Date <T> 1923-11-18 <H> Alan Shepard <R> awards <T> Distinguished Service Medal United States Navy
+<H> Elliot See <R> alma Mater <T> University of Texas at Austin <H> Elliot See <R> birth Place <T> Dallas <H> University of Texas at Austin <R> compete in <T> Big 12 Conference <H> University of Texas at Austin <R> affiliation <T> University of Texas System <H> University of Texas at Austin <R> president <T> Gregory L. Fenves
+<H> Elliot See <R> alma Mater <T> University of Texas at Austin <H> Elliot See <R> status <T> Deceased <H> Elliot See <R> death Place <T> St. Louis <H> Elliot See <R> birth Place <T> Dallas <H> Elliot See <R> death Date <T> 1966-02-28
+<H> Elliot See <R> alma Mater <T> University of Texas at Austin <H> University of Texas at Austin <R> affiliations <T> University of Texas System <H> Dallas <R> parts Type <T> List of counties in Texas <H> Elliot See <R> birth Place <T> Dallas <H> University of Texas at Austin <R> compete in <T> Big 12 Conference
+<H> Elliot See <R> alma Mater <T> University of Texas at Austin <H> University of Texas at Austin <R> affiliations <T> University of Texas System <H> Elliot See <R> birth Place <T> Dallas <H> Elliot See <R> death Place <T> St. Louis <H> Elliot See <R> status <T> Deceased
+<H> William Anders <R> date Of Retirement <T> 1969-09-01 <H> Apollo 8 <R> commander <T> Frank Borman <H> William Anders <R> was a crew member of <T> Apollo 8 <H> Apollo 8 <R> backup pilot <T> Buzz Aldrin <H> Apollo 8 <R> operator <T> NASA
+<H> 20 Fenchurch Street <R> location <T> United Kingdom <H> United Kingdom <R> capital <T> London <H> London <R> leader Name <T> Boris Johnson <H> United Kingdom <R> leader Name <T> Elizabeth II <H> United Kingdom <R> currency <T> Pound sterling
+<H> 250 Delaware Avenue <R> location <T> Buffalo New York <H> 250 Delaware Avenue <R> building Start Date <T> January 2014 <H> 250 Delaware Avenue <R> cost <T> 110 million dollars <H> 250 Delaware Avenue <R> floor Area <T> 30843.8 square metres <H> 250 Delaware Avenue <R> floor Count <T> 12
+<H> 300 North LaSalle <R> location <T> Chicago <H> Chicago <R> leader Name <T> Rahm Emanuel <H> Chicago <R> is Part Of <T> DuPage County Illinois <H> 300 North LaSalle <R> floor Count <T> 60 <H> Chicago <R> country <T> United States
+<H> 3Arena <R> owner <T> Live Nation Entertainment <H> Dublin <R> leader Title <T> Dail Eireann <H> Dublin <R> country <T> Republic of Ireland <H> 3Arena <R> location <T> Dublin <H> Dublin <R> is Part Of <T> Leinster
+<H> Adisham Hall <R> architectural Style <T> Tudor and Jacabian <H> Adisham Hall <R> location <T> Sri Lanka <H> Adisham Hall <R> completion Date <T> 1931 <H> Adisham Hall <R> building Start Date <T> 1927 <H> Adisham Hall <R> address <T> St. Benedict's Monastery Adisham Haputhale Sri Lanka
+<H> Adisham Hall <R> country <T> Sri Lanka <H> Adisham Hall <R> location <T> Haputale Sri Lanka <H> Sri Lanka <R> capital <T> Sri Jayawardenepura Kotte <H> Sri Lanka <R> language <T> Tamil language <H> Sri Lanka <R> currency <T> Sri Lankan rupee
+<H> Adisham Hall <R> country <T> Sri Lanka <H> Adisham Hall <R> location <T> Haputale <H> Sri Lanka <R> leader Name <T> Ranil Wickremesinghe <H> Sri Lanka <R> capital <T> Sri Jayawardenepura Kotte <H> Sri Lanka <R> currency <T> Sri Lankan rupee
+<H> Akita Museum of Art <R> country <T> Japan <H> Akita Akita <R> is Part Of <T> Akita Prefecture <H> Japan <R> leader Name <T> Taro Aso <H> Japan <R> ethnic Group <T> Japanese people <H> Akita Museum of Art <R> location <T> Akita Akita
+<H> Amdavad ni Gufa <R> location <T> Gujarat <H> Amdavad ni Gufa <R> location <T> Ahmedabad <H> Amdavad ni Gufa <R> country <T> India <H> India <R> leader Name <T> Narendra Modi <H> Gujarat <R> leader Title <T> Gujarat Legislative Assembly
+<H> Amdavad ni Gufa <R> location <T> Gujarat <H> India <R> leader Name <T> T. S. Thakur <H> Ahmedabad <R> country <T> India <H> Amdavad ni Gufa <R> location <T> Ahmedabad <H> Gujarat <R> leader Title <T> Gujarat Legislative Assembly
+<H> Ampara Hospital <R> country <T> Sri Lanka <H> Sri Lanka <R> leader Name <T> Ranil Wickremesinghe <H> Ampara Hospital <R> bed Count <T> 476 <H> Ampara Hospital <R> state <T> Eastern Province Sri Lanka <H> Eastern Province Sri Lanka <R> leader Name <T> Austin Fernando
+<H> Asilomar Conference Grounds <R> architect <T> Julia Morgan <H> Julia Morgan <R> significant Building <T> Los Angeles Herald-Examiner <H> Julia Morgan <R> significant Building <T> Riverside Art Museum <H> Julia Morgan <R> significant Project <T> Hearst Castle <H> Julia Morgan <R> birth Place <T> California
+<H> Asilomar Conference Grounds <R> architect <T> Julia Morgan <H> Julia Morgan <R> significant Building <T> Riverside Art Museum <H> Julia Morgan <R> significant Project <T> Hearst Castle <H> Julia Morgan <R> significant Building <T> Chinatown San Francisco <H> Julia Morgan <R> birth Place <T> California
+<H> Asilomar Conference Grounds <R> location <T> Pacific Grove California <H> Asilomar Conference Grounds <R> added to the National Register of Historic Places <T> 1987-02-27 <H> Asilomar Conference Grounds <R> architectural Style <T> Arts and Crafts movement <H> Asilomar Conference Grounds <R> Reference Number in the National Register of Historic Places <T> 87000823 <H> Asilomar Conference Grounds <R> year Of Construction <T> 1913
+<H> Asser Levy Public Baths <R> location <T> 23rd Street Manhattan <H> Asser Levy Public Baths <R> architectural Style <T> Romanesque Revival architecture <H> Asser Levy Public Baths <R> Reference Number in the National Register of Historic Places <T> 80002709 <H> Asser Levy Public Baths <R> year Of Construction <T> 1904 <H> Asser Levy Public Baths <R> added to the National Register of Historic Places <T> 1980-04-23
+<H> Asser Levy Public Baths <R> location <T> New York City <H> New York City <R> country <T> United States <H> Manhattan <R> leader Name <T> Gale Brewer <H> New York City <R> is Part Of <T> New York <H> New York City <R> is Part Of <T> Manhattan
+<H> Birmingham <R> postal Code <T> B postcode area <H> 103 Colmore Row <R> architect <T> John Madin <H> John Madin <R> birth Place <T> Birmingham <H> Birmingham <R> governing Body <T> Birmingham City Council <H> Birmingham <R> leader Name <T> Andrew Mitchell
+<H> Ethiopia <R> leader Name <T> Mulatu Teshome <H> Ethiopia <R> leader Name <T> Hailemariam Desalegn <H> Addis Ababa <R> is Part Of <T> Addis Ababa Stadium <H> Addis Ababa City Hall <R> location <T> Addis Ababa <H> Addis Ababa <R> country <T> Ethiopia
+<H> United States <R> ethnic Group <T> African Americans <H> United States <R> language <T> English language <H> United States <R> leader Title <T> President of the United States <H> United States <R> leader Name <T> John Roberts <H> 250 Delaware Avenue <R> location <T> United States
+<H> United States <R> language <T> English language <H> United States <R> leader Title <T> President of the United States <H> United States <R> leader Name <T> Joe Biden <H> 250 Delaware Avenue <R> location <T> United States <H> United States <R> ethnic Group <T> White Americans
+<H> Bananaman <R> starring <T> Tim Brooke-Taylor <H> Bananaman <R> broadcasted By <T> BBC <H> Bananaman <R> creator <T> John Geering <H> Bananaman <R> first Aired <T> 1983-10-03 <H> Bananaman <R> last Aired <T> 1986-04-15
+<H> Duncan Rouleau <R> nationality <T> Americans <H> Baymax <R> creator <T> Duncan Rouleau <H> Baymax <R> creator <T> Steven T. Seagle <H> Baymax <R> series <T> Big Hero 6 film <H> Big Hero 6 film <R> starring <T> Scott Adsit
+<H> Ajoblanco <R> country <T> Spain <H> Ajoblanco <R> main Ingredients <T> Bread almonds garlic water olive oil <H> Ajoblanco <R> region <T> Andalusia <H> Ajoblanco <R> alternative Name <T> Ajo blanco <H> Ajoblanco <R> ingredient <T> Bread
+<H> Amatriciana sauce <R> region <T> Lazio <H> Amatriciana sauce <R> country <T> Italy <H> Amatriciana sauce <R> ingredient <T> Guanciale <H> Amatriciana sauce <R> course <T> Italian meal structure <H> Amatriciana sauce <R> main Ingredients <T> Tomatoes guanciale cheese olive oil
+<H> Arem-arem <R> country <T> Indonesia <H> Arem-arem <R> region <T> Javanese cuisine <H> Indonesia <R> leader Name <T> Joko Widodo <H> Indonesia <R> currency <T> Indonesian rupiah <H> Indonesia <R> language <T> Indonesian language
+<H> Arrabbiata sauce <R> country <T> Italy <H> Italy <R> demonym <T> Italians <H> Italy <R> capital <T> Rome <H> Italy <R> language <T> Italian language <H> Italy <R> leader Name <T> Sergio Mattarella
+<H> Arros negre <R> region <T> Valencian Community <H> Valencian Community <R> leader Name <T> Ximo Puig <H> Arros negre <R> country <T> Spain <H> Spain <R> demonym <T> Spaniards <H> Spain <R> leader Name <T> Felipe VI of Spain
+<H> Asam pedas <R> country <T> Malaysia <H> Malaysia <R> ethnic Group <T> Malaysian Chinese <H> Malaysia <R> capital <T> Kuala Lumpur <H> Malaysia <R> ethnic Group <T> Malaysian Indian <H> Asam pedas <R> region <T> Malay Peninsula
+<H> Asam pedas <R> country <T> Malaysia <H> Malaysia <R> ethnic Group <T> Malaysian Chinese <H> Malaysia <R> leader Name <T> Arifin Zakaria <H> Malaysia <R> ethnic Group <T> Malaysian Indian <H> Asam pedas <R> region <T> Malay Peninsula
+<H> Ayam penyet <R> region <T> Nationwide also can be found in Malaysia and Singapore <H> Ayam penyet <R> country <T> Java <H> Ayam penyet <R> ingredient <T> Fried chicken <H> Ayam penyet <R> main Ingredients <T> Squeezed or smashed fried chicken served with sambal <H> Ayam penyet <R> serving Temperature <T> Hot
+<H> Ayam penyet <R> region <T> Malaysia <H> Malaysia <R> ethnic Group <T> Malaysian Chinese <H> Ayam penyet <R> ingredient <T> Fried chicken <H> Ayam penyet <R> country <T> Indonesia <H> Ayam penyet <R> main Ingredients <T> Squeezed or smashed fried chicken served with sambal
+<H> Bacon Explosion <R> country <T> United States <H> United States <R> leader Name <T> Barack Obama <H> United States <R> ethnic Group <T> Native Americans in the United States <H> United States <R> capital <T> Washington D.C. <H> United States <R> language <T> English language
+<H> Baked Alaska <R> country <T> France <H> Hong Kong <R> leader Name <T> Carrie Lam politician <H> France <R> leader Name <T> Gerard Larcher <H> France <R> language <T> French language <H> Baked Alaska <R> region <T> Hong Kong
+<H> Bakewell pudding <R> region <T> Derbyshire Dales <H> Derbyshire Dales <R> leader Name <T> Patrick McLoughlin <H> Bakewell pudding <R> dish Variation <T> Bakewell tart <H> Derbyshire Dales <R> is Part Of <T> Derbyshire <H> Bakewell tart <R> ingredient <T> Shortcrust pastry
+<H> Bandeja paisa <R> ingredient <T> Lemon <H> Lemon <R> family <T> Rutaceae <H> Bandeja paisa <R> country <T> Colombian cuisine <H> Bandeja paisa <R> region <T> Paisa Region <H> Lemon <R> genus <T> Citrus
+<H> Bandeja paisa <R> ingredient <T> Lemon <H> Lemon <R> order <T> Rosids <H> Lemon <R> family <T> Rutaceae <H> Bandeja paisa <R> country <T> Colombian cuisine <H> Bandeja paisa <R> region <T> Paisa Region
+<H> Barny Cakes <R> country <T> France <H> France <R> language <T> French language <H> France <R> leader Name <T> Gerard Larcher <H> France <R> leader Name <T> Claude Bartolone <H> Barny Cakes <R> ingredient <T> Sponge cake
+<H> Barny Cakes <R> country <T> France <H> France <R> leader Name <T> Gerard Larcher <H> France <R> language <T> French language <H> Mondelez International <R> foundation Place <T> Chicago <H> Barny Cakes <R> creator <T> Mondelez International
+<H> Beef kway teow <R> region <T> Singapore <H> Singapore <R> language <T> English language <H> Beef kway teow <R> country <T> Singapore and Indonesia <H> Singapore <R> leader Name <T> Tony Tan <H> Singapore <R> leader Name <T> Halimah Yacob
+<H> Bhajji <R> country <T> India <H> Bhajji <R> region <T> Karnataka <H> Bhajji <R> main Ingredients <T> Gram flour vegetables <H> Bhajji <R> alternative Name <T> Bhaji bajji <H> Bhajji <R> ingredient <T> Vegetable
+<H> Bhajji <R> country <T> India <H> India <R> demonym <T> Indian people <H> India <R> leader Name <T> Sumitra Mahajan <H> Bhajji <R> region <T> Karnataka <H> Karnataka <R> leader Name <T> Vajubhai Vala
+<H> Bionico <R> country <T> Mexico <H> Bionico <R> region <T> Jalisco <H> Jalisco <R> leader Name <T> Jesus Casillas Romero <H> Dessert <R> dish Variation <T> Cake <H> Bionico <R> course <T> Dessert
+<H> Bionico <R> country <T> Mexico <H> Dessert <R> dish Variation <T> Cake <H> Mexico <R> leader Name <T> Enrique Pena Nieto <H> Bionico <R> course <T> Dessert <H> Bionico <R> region <T> Guadalajara
+<H> Derbyshire Dales <R> leader Name <T> Patrick McLoughlin <H> Bakewell pudding <R> dish Variation <T> Bakewell tart <H> Bakewell tart <R> region <T> Derbyshire Dales <H> Derbyshire Dales <R> administrative County <T> Derbyshire <H> Bakewell tart <R> ingredient <T> Frangipane
+<H> Derbyshire Dales <R> leader Name <T> Patrick McLoughlin <H> Bakewell pudding <R> dish Variation <T> Bakewell tart <H> Bakewell tart <R> region <T> Derbyshire Dales <H> Derbyshire Dales <R> is Part Of <T> Derbyshire <H> Bakewell tart <R> ingredient <T> Frangipane
+<H> Indonesia <R> capital <T> Jakarta <H> Indonesia <R> language <T> Indonesian language <H> Indonesia <R> leader Name <T> Jusuf Kalla <H> Bakso <R> region <T> Indonesia <H> Bakso <R> country <T> Indonesia
+<H> Italy <R> demonym <T> Italians <H> Italy <R> capital <T> Rome <H> Italy <R> leader Name <T> Matteo Renzi <H> Amatriciana sauce <R> country <T> Italy <H> Italy <R> leader Name <T> Sergio Mattarella
+<H> Java <R> ethnic Group <T> Baduy <H> Singapore <R> language <T> English language <H> Singapore <R> leader Name <T> Halimah Yacob <H> Ayam penyet <R> region <T> Singapore <H> Ayam penyet <R> country <T> Java
+<H> Philippines <R> ethnic Group <T> Ilocano people <H> Philippines <R> language <T> Arabic <H> Philippines <R> official Language <T> Philippine English <H> Batchoy <R> country <T> Philippines <H> Philippines <R> ethnic Group <T> Igorot people
+<H> Singapore <R> language <T> English language <H> Beef kway teow <R> country <T> Singapore <H> Beef kway teow <R> region <T> Nationwide in Singapore and Indonesia <H> Singapore <R> leader Name <T> Tony Tan <H> Singapore <R> leader Name <T> Halimah Yacob
+<H> Spain <R> leader Name <T> Felipe VI of Spain <H> Spain <R> language <T> Spanish language <H> Spain <R> currency <T> Euro <H> Ajoblanco <R> country <T> Spain <H> Spain <R> demonym <T> Spaniards
+<H> Adams County Pennsylvania <R> has to its west <T> Franklin County Pennsylvania <H> Adams County Pennsylvania <R> has to its southeast <T> Carroll County Maryland <H> Adams County Pennsylvania <R> has to its north <T> Cumberland County Pennsylvania <H> 11th Mississippi Infantry Monument <R> municipality <T> Gettysburg Pennsylvania <H> 11th Mississippi Infantry Monument <R> location <T> Adams County Pennsylvania
+<H> Azerbaijan <R> capital <T> Baku <H> Azerbaijan <R> leader Title <T> Prime Minister of Azerbaijan <H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan <H> Azerbaijan <R> leader Name <T> Artur Rasizade <H> Azerbaijan <R> legislature <T> National Assembly Azerbaijan
+<H> Baku Turkish Martyrs' Memorial <R> dedicated To <T> Ottoman Army soldiers killed in the Battle of Baku <H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan <H> Baku Turkish Martyrs' Memorial <R> native Name <T> Turk Sehitleri Aniti <H> Azerbaijan <R> leader Name <T> Artur Rasizade <H> Baku Turkish Martyrs' Memorial <R> designer <T> Huseyin Butuner and Hilmi Guner
+<H> Baku Turkish Martyrs' Memorial <R> dedicated To <T> Ottoman Army soldiers killed in the Battle of Baku <H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan <H> Baku Turkish Martyrs' Memorial <R> native Name <T> Turk Sehitleri Aniti <H> Baku Turkish Martyrs' Memorial <R> designer <T> Huseyin Butuner and Hilmi Guner <H> Baku Turkish Martyrs' Memorial <R> material <T> Red granite and white marble
+<H> Baku Turkish Martyrs' Memorial <R> material <T> Red granite and white marble <H> Azerbaijan <R> leader Title <T> Prime Minister of Azerbaijan <H> Baku Turkish Martyrs' Memorial <R> dedicated To <T> Ottoman Army soldiers killed in the Battle of Baku <H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan <H> Baku Turkish Martyrs' Memorial <R> designer <T> Huseyin Butuner and Hilmi Guner
+<H> A.F.C. Blackpool <R> manager <T> Stuart Parker footballer <H> Stuart Parker footballer <R> club <T> KV Mechelen <H> Stuart Parker footballer <R> club <T> Chesterfield F.C. <H> Blackpool <R> leader <T> Gordon Marsden <H> A.F.C. Blackpool <R> ground <T> Blackpool
+<H> AEK Athens F.C. <R> league <T> Superleague Greece <H> Superleague Greece <R> champions <T> Olympiacos F.C. <H> AEK Athens F.C. <R> manager <T> Gus Poyet <H> Gus Poyet <R> club <T> Real Zaragoza <H> Gus Poyet <R> club <T> Chelsea F.C.
+<H> Agremiacao Sportiva Arapiraquense <R> league <T> Campeonato Brasileiro Serie C <H> Campeonato Brasileiro Serie C <R> country <T> Brazil <H> Agremiacao Sportiva Arapiraquense <R> ground <T> Estadio Municipal Coaracy da Mata Fonseca <H> Estadio Municipal Coaracy da Mata Fonseca <R> location <T> Alagoas <H> Campeonato Brasileiro Serie C <R> champions <T> Vila Nova Futebol Clube
+<H> Agremiacao Sportiva Arapiraquense <R> league <T> Campeonato Brasileiro Serie C <H> Campeonato Brasileiro Serie C <R> country <T> Brazil <H> Agremiacao Sportiva Arapiraquense <R> ground <T> Estadio Municipal Coaracy da Mata Fonseca <H> Estadio Municipal Coaracy da Mata Fonseca <R> location <T> Arapiraca <H> Campeonato Brasileiro Serie C <R> champions <T> Vila Nova Futebol Clube
+<H> Agremiacao Sportiva Arapiraquense <R> league <T> Campeonato Brasileiro Serie C <H> Campeonato Brasileiro Serie C <R> country <T> Brazil <H> Agremiacao Sportiva Arapiraquense <R> manager <T> Vica <H> Agremiacao Sportiva Arapiraquense <R> number Of Members <T> 17000 <H> Campeonato Brasileiro Serie C <R> champions <T> Vila Nova Futebol Clube
+<H> Accademia di Architettura di Mendrisio <R> country <T> Switzerland <H> Accademia di Architettura di Mendrisio <R> dean <T> Mario Botta <H> Accademia di Architettura di Mendrisio <R> city <T> Mendrisio <H> Accademia di Architettura di Mendrisio <R> number Of Students <T> 600 <H> Accademia di Architettura di Mendrisio <R> academic Staff Size <T> 100
+<H> Accademia di Architettura di Mendrisio <R> country <T> Switzerland <H> Accademia di Architettura di Mendrisio <R> number Of Students <T> 600 <H> Accademia di Architettura di Mendrisio <R> established <T> 1996 <H> Switzerland <R> leader Name <T> Johann Schneider-Ammann <H> Accademia di Architettura di Mendrisio <R> location <T> Ticino
+<H> Acharya Institute of Technology <R> affiliation <T> Visvesvaraya Technological University <H> Karnataka <R> has to its northeast <T> Telangana <H> Acharya Institute of Technology <R> city <T> Bangalore <H> Karnataka <R> has to its west <T> Arabian Sea <H> Acharya Institute of Technology <R> state <T> Karnataka
+<H> Acharya Institute of Technology <R> city <T> Bangalore <H> Acharya Institute of Technology <R> established <T> 2000 <H> Acharya Institute of Technology <R> country <T> India <H> Acharya Institute of Technology <R> number Of Postgraduate Students <T> 700 <H> Acharya Institute of Technology <R> campus <T> In Soldevanahalli Acharya Dr. Sarvapalli Radhakrishnan Road Hessarghatta Main Road Bangalore - 560090.
+<H> Bangalore <R> founder <T> Kempe Gowda I <H> Acharya Institute of Technology <R> city <T> Bangalore <H> Karnataka <R> has to its west <T> Arabian Sea <H> Acharya Institute of Technology <R> state <T> Karnataka <H> Acharya Institute of Technology <R> affiliation <T> Visvesvaraya Technological University
+<H> Romania <R> leader Title <T> Prime Minister of Romania <H> Alba Iulia <R> country <T> Romania <H> Romania <R> leader Name <T> Klaus Iohannis <H> Romania <R> capital <T> Bucharest <H> 1 Decembrie 1918 University <R> city <T> Alba Iulia
+<H> School of Business and Social Sciences at the Aarhus University <R> affiliation <T> European University Association <H> School of Business and Social Sciences at the Aarhus University <R> number Of Students <T> 16000 <H> School of Business and Social Sciences at the Aarhus University <R> academic Staff Size <T> 737 <H> School of Business and Social Sciences at the Aarhus University <R> country <T> Denmark <H> School of Business and Social Sciences at the Aarhus University <R> established <T> 1928
+<H> A Long Long Way <R> country <T> Ireland <H> Ireland <R> ethnic Group <T> White people <H> The Secret Scripture <R> publisher <T> Faber and Faber <H> Ireland <R> location <T> Europe <H> A Long Long Way <R> followed By <T> The Secret Scripture
+<H> A Long Long Way <R> preceded By <T> Annie Dunne <H> A Long Long Way <R> country <T> Ireland <H> Ireland <R> ethnic Group <T> White people <H> The Secret Scripture <R> publisher <T> Faber and Faber <H> A Long Long Way <R> followed By <T> The Secret Scripture
+<H> Above the Veil <R> country <T> Australians <H> Into Battle novel <R> followed By <T> The Violet Keystone <H> Above the Veil <R> followed By <T> Into Battle novel <H> Above the Veil <R> preceded By <T> Aenir <H> Aenir <R> preceded By <T> Castle novel
+<H> Administrative Science Quarterly <R> publisher <T> Cornell University <H> Cornell University <R> nickname <T> Cornell Big Red <H> Cornell University <R> affiliation <T> Association of American Universities <H> Cornell University <R> state <T> New York <H> Cornell University <R> city <T> Ithaca New York
+<H> Administrative Science Quarterly <R> publisher <T> Cornell University <H> Cornell University <R> nickname <T> Cornell Big Red <H> Cornell University <R> affiliation <T> Association of Public and Land-grant Universities <H> Cornell University <R> state <T> New York <H> Cornell University <R> city <T> Ithaca New York
+<H> Alcatraz Versus the Evil Librarians <R> language <T> English language <H> English language <R> spoken In <T> Great Britain <H> United States <R> leader Name <T> Barack Obama <H> Alcatraz Versus the Evil Librarians <R> country <T> United States <H> United States <R> ethnic Group <T> African Americans
+<H> English language <R> spoken In <T> Great Britain <H> United States <R> language <T> English language <H> United States <R> capital <T> Washington D.C. <H> A Severed Wasp <R> country <T> United States <H> United States <R> ethnic Group <T> African Americans
+<H> English language <R> spoken In <T> Great Britain <H> United States <R> language <T> English language <H> United States <R> leader Name <T> Joe Biden <H> Alcatraz Versus the Evil Librarians <R> country <T> United States <H> United States <R> ethnic Group <T> African Americans
+<H> United Kingdom <R> language <T> English language <H> United Kingdom <R> leader Name <T> David Cameron <H> AIDS journal <R> country <T> United Kingdom <H> United Kingdom <R> capital <T> London <H> United Kingdom <R> leader Name <T> Elizabeth II
+<H> United Kingdom <R> leader Name <T> Elizabeth II <H> United Kingdom <R> leader Name <T> David Cameron <H> AIDS journal <R> country <T> United Kingdom <H> AIDS journal <R> publisher <T> Lippincott Williams & Wilkins <H> Lippincott Williams & Wilkins <R> parent Company <T> Wolters Kluwer
+<H> United States <R> leader Name <T> Barack Obama <H> A Severed Wasp <R> language <T> English language <H> English language <R> spoken In <T> Great Britain <H> A Severed Wasp <R> country <T> United States <H> United States <R> ethnic Group <T> Native Americans in the United States
+<H> United States <R> leader Name <T> Barack Obama <H> English language <R> spoken In <T> Great Britain <H> United States <R> language <T> English language <H> A Severed Wasp <R> country <T> United States <H> United States <R> ethnic Group <T> Native Americans in the United States
+<H> Alan Bean <R> was a crew member of <T> Apollo 12 <H> Alan Bean <R> nationality <T> United States <H> Apollo 12 <R> operator <T> NASA <H> Apollo 12 <R> commander <T> David Scott <H> Alan Bean <R> birth Place <T> Wheeler Texas <H> Alan Bean <R> status <T> Retired
+<H> Alan Shepard <R> alma Mater <T> NWC M.A. 1957 <H> Alan Shepard <R> death Place <T> California <H> Alan Shepard <R> birth Place <T> New Hampshire <H> Alan Shepard <R> was selected by NASA <T> 1959 <H> Alan Shepard <R> nationality <T> United States <H> Alan Shepard <R> birth Date <T> 1923-11-18
+<H> Alan Shepard <R> status <T> Deceased <H> Alan Shepard <R> alma Mater <T> NWC M.A. 1957 <H> Alan Shepard <R> death Place <T> California <H> Alan Shepard <R> birth Place <T> New Hampshire <H> Alan Shepard <R> was selected by NASA <T> 1959 <H> Alan Shepard <R> birth Date <T> 1923-11-18
+<H> Alan Shepard <R> was a crew member of <T> Apollo 14 <H> Alan Shepard <R> death Place <T> California <H> Alan Shepard <R> birth Place <T> New Hampshire <H> Alan Shepard <R> date Of Retirement <T> 1974-08-01 <H> Apollo 14 <R> operator <T> NASA <H> Alan Shepard <R> birth Date <T> 1923-11-18
+<H> Alan Shepard <R> was awarded <T> American Defense Service ribbon.svg <H> Alan Shepard <R> death Date <T> 1998-07-21 <H> Distinguished Service Medal United States Navy <R> higher <T> Department of Commerce Gold Medal <H> Alan Shepard <R> death Place <T> California <H> Alan Shepard <R> birth Place <T> New Hampshire <H> Alan Shepard <R> awards <T> Distinguished Service Medal United States Navy
+<H> Buzz Aldrin <R> birth Place <T> Glen Ridge New Jersey <H> Buzz Aldrin <R> alternative Names <T> Edwin E. Aldrin Jr. <H> Buzz Aldrin <R> was a crew member of <T> Apollo 11 <H> Buzz Aldrin <R> occupation <T> Fighter pilot <H> Buzz Aldrin <R> alma Mater <T> Massachusetts Institute of Technology Sc.D. 1963 <H> Buzz Aldrin <R> birth Date <T> 1930-01-20
+<H> Buzz Aldrin <R> birth Place <T> Glen Ridge New Jersey <H> Buzz Aldrin <R> was selected by NASA <T> 1963 <H> Buzz Aldrin <R> was a crew member of <T> Apollo 11 <H> Buzz Aldrin <R> alma Mater <T> Massachusetts Institute of Technology Sc.D. 1963 <H> Buzz Aldrin <R> birth Date <T> 1930-01-20 <H> Buzz Aldrin <R> status <T> Retired
+<H> Buzz Aldrin <R> was a crew member of <T> Apollo 11 <H> Buzz Aldrin <R> was selected by NASA <T> 1963 <H> Buzz Aldrin <R> occupation <T> Fighter pilot <H> Buzz Aldrin <R> alma Mater <T> Massachusetts Institute of Technology Sc.D. 1963 <H> Apollo 11 <R> backup pilot <T> William Anders <H> Apollo 11 <R> operator <T> NASA
+<H> Elliot See <R> alma Mater <T> University of Texas at Austin <H> Elliot See <R> status <T> Deceased <H> Elliot See <R> death Place <T> St. Louis <H> Elliot See <R> birth Place <T> Dallas <H> Elliot See <R> death Date <T> 1966-02-28 <H> Elliot See <R> nationality <T> United States
+<H> Elliot See <R> alma Mater <T> University of Texas at Austin <H> University of Texas at Austin <R> affiliations <T> University of Texas System <H> Elliot See <R> birth Date <T> 1927-07-23 <H> Elliot See <R> birth Place <T> Dallas <H> Elliot See <R> death Place <T> St. Louis <H> Elliot See <R> status <T> Deceased
+<H> William Anders <R> date Of Retirement <T> 1969-09-01 <H> William Anders <R> birth Date <T> 1933-10-17 <H> William Anders <R> occupation <T> Fighter pilot <H> William Anders <R> birth Place <T> British Hong Kong <H> William Anders <R> was a crew member of <T> Apollo 8 <H> William Anders <R> alma Mater <T> AFIT M.S. 1962
+<H> Ataturk Monument Izmir <R> designer <T> Pietro Canonica <H> Turkey <R> leader Name <T> Ahmet Davutoglu <H> Turkey <R> capital <T> Ankara <H> Ataturk Monument Izmir <R> material <T> Bronze <H> Ataturk Monument Izmir <R> inauguration Date <T> 1932-07-27 <H> Ataturk Monument Izmir <R> location <T> Turkey
+<H> Azerbaijan <R> leader Title <T> Prime Minister of Azerbaijan <H> Baku Turkish Martyrs' Memorial <R> dedicated To <T> Ottoman Army soldiers killed in the Battle of Baku <H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan <H> Baku Turkish Martyrs' Memorial <R> native Name <T> Turk Sehitleri Aniti <H> Azerbaijan <R> leader Name <T> Artur Rasizade <H> Baku Turkish Martyrs' Memorial <R> designer <T> Huseyin Butuner and Hilmi Guner
+<H> Monocacy National Battlefield <R> location <T> Frederick County Maryland <H> 14th New Jersey Volunteer Infantry Monument <R> established <T> 1907-07-11 <H> 14th New Jersey Volunteer Infantry Monument <R> category <T> Historic districts in the United States <H> 14th New Jersey Volunteer Infantry Monument <R> district <T> Monocacy National Battlefield <H> Monocacy National Battlefield <R> nearest City <T> Frederick Maryland <H> 14th New Jersey Volunteer Infantry Monument <R> owning Organisation <T> National Park Service
+<H> Monocacy National Battlefield <R> location <T> Frederick County Maryland <H> 14th New Jersey Volunteer Infantry Monument <R> established <T> 1907-07-11 <H> 14th New Jersey Volunteer Infantry Monument <R> country <T> United States <H> 14th New Jersey Volunteer Infantry Monument <R> category <T> Historic districts in the United States <H> 14th New Jersey Volunteer Infantry Monument <R> district <T> Monocacy National Battlefield <H> 14th New Jersey Volunteer Infantry Monument <R> owning Organisation <T> National Park Service
+<H> Accademia di Architettura di Mendrisio <R> country <T> Switzerland <H> Accademia di Architettura di Mendrisio <R> number Of Students <T> 600 <H> Accademia di Architettura di Mendrisio <R> established <T> 1996 <H> Switzerland <R> leader Name <T> Johann Schneider-Ammann <H> Accademia di Architettura di Mendrisio <R> location <T> Ticino <H> Switzerland <R> leader Title <T> Federal Chancellor of Switzerland
+<H> Acharya Institute of Technology <R> city <T> Bangalore <H> Acharya Institute of Technology <R> director <T> Dr. G. P. Prabhukumar <H> Acharya Institute of Technology <R> established <T> 2000 <H> Acharya Institute of Technology <R> country <T> India <H> Acharya Institute of Technology <R> state <T> Karnataka <H> Acharya Institute of Technology <R> campus <T> In Soldevanahalli Acharya Dr. Sarvapalli Radhakrishnan Road Hessarghatta Main Road Bangalore - 560090.
+<H> Acharya Institute of Technology <R> president <T> B.M. Reddy <H> Acharya Institute of Technology <R> city <T> Bangalore <H> Acharya Institute of Technology <R> director <T> Dr. G. P. Prabhukumar <H> Acharya Institute of Technology <R> established <T> 2000 <H> Acharya Institute of Technology <R> country <T> India <H> Acharya Institute of Technology <R> affiliation <T> Visvesvaraya Technological University
+<H> Acharya Institute of Technology <R> was given the 'Technical Campus' status by <T> All India Council for Technical Education <H> All India Council for Technical Education <R> location <T> Mumbai <H> Acharya Institute of Technology <R> sports Offered <T> Tennis <H> Karnataka <R> has to its west <T> Arabian Sea <H> Acharya Institute of Technology <R> state <T> Karnataka <H> Tennis <R> sports Governing Body <T> International Tennis Federation
+<H> Acharya Institute of Technology <R> was given the 'Technical Campus' status by <T> All India Council for Technical Education <H> All India Council for Technical Education <R> location <T> Mumbai <H> Visvesvaraya Technological University <R> city <T> Belgaum <H> Acharya Institute of Technology <R> sports Offered <T> Tennis <H> Tennis <R> sports Governing Body <T> International Tennis Federation <H> Acharya Institute of Technology <R> affiliation <T> Visvesvaraya Technological University
+<H> Romania <R> ethnic Group <T> Germans of Romania <H> Romania <R> leader Name <T> Klaus Iohannis <H> Romania <R> leader Title <T> Prime Minister of Romania <H> Romania <R> patron Saint <T> Andrew the Apostle <H> Romania <R> capital <T> Bucharest <H> 1 Decembrie 1918 University <R> country <T> Romania
+<H> School of Business and Social Sciences at the Aarhus University <R> academic Staff Size <T> 737 <H> Denmark <R> leader Name <T> Lars Lokke Rasmussen <H> School of Business and Social Sciences at the Aarhus University <R> city <T> Aarhus <H> School of Business and Social Sciences at the Aarhus University <R> country <T> Denmark <H> School of Business and Social Sciences at the Aarhus University <R> affiliation <T> European University Association <H> School of Business and Social Sciences at the Aarhus University <R> established <T> 1928
+<H> School of Business and Social Sciences at the Aarhus University <R> city <T> Aarhus <H> School of Business and Social Sciences at the Aarhus University <R> number Of Students <T> 16000 <H> School of Business and Social Sciences at the Aarhus University <R> academic Staff Size <T> 737 <H> School of Business and Social Sciences at the Aarhus University <R> country <T> Denmark <H> School of Business and Social Sciences at the Aarhus University <R> affiliation <T> European University Association <H> School of Business and Social Sciences at the Aarhus University <R> established <T> 1928
+<H> Alan Bean <R> was a crew member of <T> Apollo 12 <H> Alan Bean <R> nationality <T> United States <H> Apollo 12 <R> operator <T> NASA <H> Alan Bean <R> occupation <T> Test pilot <H> Alan Bean <R> birth Place <T> Wheeler Texas <H> Alan Bean <R> status <T> Retired <H> Alan Bean <R> birth Date <T> 1932-03-15
+<H> Alan Bean <R> was a crew member of <T> Apollo 12 <H> Apollo 12 <R> operator <T> NASA <H> Alan Bean <R> occupation <T> Test pilot <H> Apollo 12 <R> commander <T> David Scott <H> Alan Bean <R> birth Place <T> Wheeler Texas <H> Alan Bean <R> status <T> Retired <H> Alan Bean <R> alma Mater <T> UT Austin B.S. 1955
+<H> Alan Shepard <R> alma Mater <T> NWC M.A. 1957 <H> Alan Shepard <R> was a crew member of <T> Apollo 14 <H> Alan Shepard <R> death Place <T> California <H> Alan Shepard <R> birth Place <T> New Hampshire <H> Alan Shepard <R> was selected by NASA <T> 1959 <H> Alan Shepard <R> nationality <T> United States <H> Alan Shepard <R> birth Date <T> 1923-11-18
+<H> Alan Shepard <R> status <T> Deceased <H> Alan Shepard <R> alma Mater <T> NWC M.A. 1957 <H> Alan Shepard <R> death Place <T> California <H> Alan Shepard <R> occupation <T> Test pilot <H> Alan Shepard <R> birth Place <T> New Hampshire <H> Alan Shepard <R> nationality <T> United States <H> Alan Shepard <R> birth Date <T> 1923-11-18
+<H> Alan Shepard <R> status <T> Deceased <H> Alan Shepard <R> occupation <T> Test pilot <H> Distinguished Service Medal United States Navy <R> higher <T> Department of Commerce Gold Medal <H> Alan Shepard <R> death Place <T> California <H> Alan Shepard <R> birth Place <T> New Hampshire <H> Alan Shepard <R> birth Date <T> 1923-11-18 <H> Alan Shepard <R> awards <T> Distinguished Service Medal United States Navy
+<H> Buzz Aldrin <R> birth Place <T> Glen Ridge New Jersey <H> Buzz Aldrin <R> alternative Names <T> Edwin E. Aldrin Jr. <H> Buzz Aldrin <R> nationality <T> United States <H> Buzz Aldrin <R> was a crew member of <T> Apollo 11 <H> Buzz Aldrin <R> occupation <T> Fighter pilot <H> Buzz Aldrin <R> alma Mater <T> Massachusetts Institute of Technology Sc.D. 1963 <H> Buzz Aldrin <R> status <T> Retired
+<H> Buzz Aldrin <R> birth Place <T> Glen Ridge New Jersey <H> Buzz Aldrin <R> was a crew member of <T> Apollo 11 <H> Buzz Aldrin <R> nationality <T> United States <H> United States <R> leader Name <T> Joe Biden <H> Glen Ridge New Jersey <R> is Part Of <T> Essex County New Jersey <H> Apollo 11 <R> backup pilot <T> William Anders <H> Apollo 11 <R> operator <T> NASA
+<H> Buzz Aldrin <R> birth Place <T> Glen Ridge New Jersey <H> Buzz Aldrin <R> was a crew member of <T> Apollo 11 <H> Buzz Aldrin <R> status <T> Retired <H> Buzz Aldrin <R> birth Date <T> 1930-01-20 <H> Buzz Aldrin <R> was selected by NASA <T> 1963 <H> Buzz Aldrin <R> alma Mater <T> Massachusetts Institute of Technology Sc.D. 1963 <H> Apollo 11 <R> operator <T> NASA
+<H> Buzz Aldrin <R> birth Place <T> Glen Ridge New Jersey <H> Buzz Aldrin <R> was a crew member of <T> Apollo 11 <H> Buzz Aldrin <R> was selected by NASA <T> 1963 <H> Buzz Aldrin <R> occupation <T> Fighter pilot <H> Buzz Aldrin <R> alma Mater <T> Massachusetts Institute of Technology Sc.D. 1963 <H> Apollo 11 <R> backup pilot <T> William Anders <H> Apollo 11 <R> operator <T> NASA
+<H> Elliot See <R> alma Mater <T> University of Texas at Austin <H> Elliot See <R> occupation <T> Test pilot <H> Elliot See <R> birth Date <T> 1927-07-23 <H> Elliot See <R> birth Place <T> Dallas <H> University of Texas at Austin <R> affiliation <T> University of Texas System <H> Elliot See <R> death Place <T> St. Louis <H> Elliot See <R> status <T> Deceased
+<H> Elliot See <R> alma Mater <T> University of Texas at Austin <H> Elliot See <R> status <T> Deceased <H> Elliot See <R> death Place <T> St. Louis <H> Elliot See <R> birth Date <T> 1927-07-23 <H> Elliot See <R> birth Place <T> Dallas <H> Elliot See <R> death Date <T> 1966-02-28 <H> Elliot See <R> occupation <T> Test pilot
+<H> William Anders <R> date Of Retirement <T> 1969-09-01 <H> William Anders <R> nationality <T> United States <H> William Anders <R> status <T> Retired <H> William Anders <R> birth Date <T> 1933-10-17 <H> William Anders <R> occupation <T> Fighter pilot <H> William Anders <R> birth Place <T> British Hong Kong <H> William Anders <R> alma Mater <T> AFIT M.S. 1962
+<H> 11th Mississippi Infantry Monument <R> country <T> United States <H> Adams County Pennsylvania <R> has to its southeast <T> Carroll County Maryland <H> 11th Mississippi Infantry Monument <R> established <T> 2000 <H> Adams County Pennsylvania <R> has to its north <T> Cumberland County Pennsylvania <H> 11th Mississippi Infantry Monument <R> category <T> Contributing property <H> 11th Mississippi Infantry Monument <R> municipality <T> Gettysburg Pennsylvania <H> 11th Mississippi Infantry Monument <R> location <T> Adams County Pennsylvania
+<H> Ataturk Monument Izmir <R> designer <T> Pietro Canonica <H> Turkey <R> leader Name <T> Ahmet Davutoglu <H> Turkey <R> capital <T> Ankara <H> Ataturk Monument Izmir <R> material <T> Bronze <H> Turkey <R> currency <T> Turkish lira <H> Ataturk Monument Izmir <R> inauguration Date <T> 1932-07-27 <H> Ataturk Monument Izmir <R> location <T> Turkey
+<H> Azerbaijan <R> capital <T> Baku <H> Baku Turkish Martyrs' Memorial <R> material <T> Red granite and white marble <H> Azerbaijan <R> leader Title <T> Prime Minister of Azerbaijan <H> Baku Turkish Martyrs' Memorial <R> dedicated To <T> Ottoman Army soldiers killed in the Battle of Baku <H> Baku Turkish Martyrs' Memorial <R> location <T> Azerbaijan <H> Baku Turkish Martyrs' Memorial <R> designer <T> Huseyin Butuner and Hilmi Guner <H> Azerbaijan <R> legislature <T> National Assembly Azerbaijan
+<H> Acharya Institute of Technology <R> affiliation <T> Visvesvaraya Technological University <H> Acharya Institute of Technology <R> president <T> B.M. Reddy <H> Acharya Institute of Technology <R> city <T> Bangalore <H> Acharya Institute of Technology <R> established <T> 2000 <H> Acharya Institute of Technology <R> country <T> India <H> Acharya Institute of Technology <R> state <T> Karnataka <H> Acharya Institute of Technology <R> campus <T> In Soldevanahalli Acharya Dr. Sarvapalli Radhakrishnan Road Hessarghatta Main Road Bangalore - 560090.
+<H> Acharya Institute of Technology <R> city <T> Bangalore <H> Acharya Institute of Technology <R> established <T> 2000 <H> Acharya Institute of Technology <R> motto <T> Nurturing Excellence <H> Acharya Institute of Technology <R> country <T> India <H> Acharya Institute of Technology <R> number Of Postgraduate Students <T> 700 <H> Acharya Institute of Technology <R> campus <T> In Soldevanahalli Acharya Dr. Sarvapalli Radhakrishnan Road Hessarghatta Main Road Bangalore - 560090. <H> Acharya Institute of Technology <R> affiliation <T> Visvesvaraya Technological University
+<H> Acharya Institute of Technology <R> president <T> B.M. Reddy <H> Acharya Institute of Technology <R> city <T> Bangalore <H> Acharya Institute of Technology <R> director <T> Dr. G. P. Prabhukumar <H> Acharya Institute of Technology <R> established <T> 2000 <H> Acharya Institute of Technology <R> country <T> India <H> Acharya Institute of Technology <R> campus <T> In Soldevanahalli Acharya Dr. Sarvapalli Radhakrishnan Road Hessarghatta Main Road Bangalore - 560090. <H> Acharya Institute of Technology <R> affiliation <T> Visvesvaraya Technological University
+<H> Acharya Institute of Technology <R> president <T> B.M. Reddy <H> Visvesvaraya Technological University <R> city <T> Belgaum <H> Acharya Institute of Technology <R> established <T> 2000 <H> Acharya Institute of Technology <R> country <T> India <H> Acharya Institute of Technology <R> number Of Postgraduate Students <T> 700 <H> Acharya Institute of Technology <R> campus <T> In Soldevanahalli Acharya Dr. Sarvapalli Radhakrishnan Road Hessarghatta Main Road Bangalore - 560090. <H> Acharya Institute of Technology <R> affiliation <T> Visvesvaraya Technological University
+<H> India <R> largest City <T> Mumbai <H> AWH Engineering College <R> country <T> India <H> AWH Engineering College <R> academic Staff Size <T> 250 <H> AWH Engineering College <R> state <T> Kerala <H> Kerala <R> has to its northwest <T> Mahe India <H> AWH Engineering College <R> city <T> Kuttikkattoor <H> India <R> river <T> Ganges
+<H> Romania <R> ethnic Group <T> Germans of Romania <H> Romania <R> leader Title <T> Prime Minister of Romania <H> Romania <R> leader Name <T> Klaus Iohannis <H> Romania <R> capital <T> Bucharest <H> 1 Decembrie 1918 University <R> city <T> Alba Iulia <H> 1 Decembrie 1918 University <R> country <T> Romania <H> Romania <R> anthem <T> Desteapta-te romane!
+<H> Visvesvaraya Technological University <R> city <T> Belgaum <H> Acharya Institute of Technology <R> director <T> Dr. G. P. Prabhukumar <H> Acharya Institute of Technology <R> established <T> 2000 <H> Acharya Institute of Technology <R> state <T> Karnataka <H> Acharya Institute of Technology <R> country <T> India <H> Acharya Institute of Technology <R> campus <T> In Soldevanahalli Acharya Dr. Sarvapalli Radhakrishnan Road Hessarghatta Main Road Bangalore - 560090. <H> Acharya Institute of Technology <R> affiliation <T> Visvesvaraya Technological University

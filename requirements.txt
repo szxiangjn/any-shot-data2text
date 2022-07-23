@@ -1,0 +1,6 @@
+transformers==4.9.1
+datasets==1.10.0
+torch==1.12.0
+accelerate==0.8.0
+absl-py==1.2.0
+sacrebleu==1.5.0
