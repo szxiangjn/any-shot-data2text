@@ -1,5 +1,5 @@
 # Any-Shot Data-to-Text
-[ASDOT: Any-Shot Data-to-Text Generation with Pretrained Language Model]() \
+[ASDOT: Any-Shot Data-to-Text Generation with Pretrained Language Model](https://arxiv.org/abs/2210.04325) \
 Jiannan Xiang, Zhengzhong Liu, Yucheng Zhou, Eric P. Xing, Zhiting Hu \
 Accepted to Findings of [EMNLP 2022](https://2022.emnlp.org/)
 
