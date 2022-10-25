@@ -687,6 +687,8 @@ def gen(args, logger, datasets, tokenizer, model, config, accelerator):
     )
 
     dataset, refs = datasets["valid"]["dataset"], datasets["valid"]["refs"]
+    if not args.use_sacrebleu:
+        refs, triples = refs["refs"], refs["triples"]
     dataloader = DataLoader(
         dataset, 
         collate_fn=data_collator, 
