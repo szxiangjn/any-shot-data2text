@@ -14,11 +14,14 @@ pip install -r requirements.txt
 ```
 
 ## Download Weakly-Supervised Checkpoint
-We release our ASDOT model that is finetuned with weakly-supervision dataset WikiFluent in [Google Drive](https://drive.google.com/file/d/1_qTlQdbK0sQDv7DXICOtyMdPQ7FNQBc1/view?usp=sharing).
+We release our ASDOT model that is finetuned with the weakly-supervision dataset [WikiFluent](https://github.com/kasnerz/zeroshot-d2t-pipeline) in [Google Drive](https://drive.google.com/file/d/1_qTlQdbK0sQDv7DXICOtyMdPQ7FNQBc1/view?usp=sharing).
 This model can be used for zero-/few-shot settings.
 
 ## Usage
-WebNLG and DART is in `data/webnlg` and `data/dart`, respectively. We use the WebNLG dataset as the example for usage illustration.
+WebNLG and DART is in `data/webnlg` and `data/dart`, respectively. \
+In the datasets, we have already disambiguated the triples with the GPT-3 generated templates in `temp.json`.
+
+We use the WebNLG dataset as the example for usage illustration in the following sections.
 
 ### Sample
 For few-shot experiments, you may first sample the dataset by:
